@@ -1,0 +1,678 @@
+{
+  "summary_metadata": {
+    "total_brands_scanned": 279,
+    "analysis_date": "2026-04-09",
+    "version": "V5.2",
+    "data_reliability": "基于原始 JSON 字段提取, V5.2 前端对齐版"
+  },
+  "motivation_density": [
+    {
+      "key": "Lifestyle 与 户外叙事",
+      "section": "身份叙事",
+      "brand_count": 26,
+      "percentage": "9.3%",
+      "top_representatives": [
+        {
+          "brand": "索尼微单 (Sony Alpha)",
+          "product": "A7M4 / A7C2",
+          "value": 752.6,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "北面 (The North Face)",
+          "product": "1996 Nuptse羽绒服",
+          "value": 698.4,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "美利达 (Merida)",
+          "product": "斯特拉/挑战者系列",
+          "value": 659.0,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        }
+      ]
+    },
+    {
+      "key": "社交货币 与 优越感",
+      "section": "身份叙事",
+      "brand_count": 25,
+      "percentage": "9.0%",
+      "top_representatives": [
+        {
+          "brand": "理想汽车 (Li Auto)",
+          "product": "理想L系列SUV",
+          "value": 2650.4,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "特斯拉 (Tesla)",
+          "product": "Model Y / Model 3",
+          "value": 2218.4,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "LV / Chanel / Hermes",
+          "product": "经典款包袋",
+          "value": 1540.8,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        }
+      ]
+    },
+    {
+      "key": "圈层共振 与 小众DIY",
+      "section": "身份叙事",
+      "brand_count": 25,
+      "percentage": "9.0%",
+      "top_representatives": [
+        {
+          "brand": "万代 (Bandai) / 胶佬",
+          "product": "MG/RG/PG系列高达模型",
+          "value": 4000.0,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "谷子/痛包文化 (Goods)",
+          "product": "徽章(吧唧)/立牌/色纸/痛包",
+          "value": 1000.0,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "EGA密室逃脱",
+          "product": "线下大型机械/实景密室",
+          "value": 884.6,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        }
+      ]
+    },
+    {
+      "key": "文化根脉 与 国潮觉醒",
+      "section": "身份叙事",
+      "brand_count": 24,
+      "percentage": "8.6%",
+      "top_representatives": [
+        {
+          "brand": "比亚迪 / 华为 (汽车)",
+          "product": "仰望U8 / 问界M9",
+          "value": 3034.4,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "安踏 / 李宁 (国产品牌)",
+          "product": "中国李宁系列/安踏国旗款",
+          "value": 623.5,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        },
+        {
+          "brand": "白象 (Baixiang)",
+          "product": "汤好喝老母鸡汤面",
+          "value": 601.8,
+          "metric": "GMV(亿)",
+          "data_source": "身份叙事"
+        }
+      ]
+    },
+    {
+      "key": "孤独焦虑",
+      "section": "情绪补偿",
+      "brand_count": 22,
+      "percentage": "7.9%",
+      "top_representatives": [
+        {
+          "brand": "米哈游 (miHoYo)",
+          "product": "《原神》/《崩坏：星穹铁道》",
+          "value": 692.4,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        },
+        {
+          "brand": "星巴克 (Starbucks)",
+          "product": "星巴克咖啡饮品",
+          "value": 674.6,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        },
+        {
+          "brand": "动物森友会 (Animal Crossing)",
+          "product": "游戏本体/Switch",
+          "value": 474.1,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        }
+      ]
+    },
+    {
+      "key": "懒人经济与Gap心态",
+      "section": "情绪补偿",
+      "brand_count": 21,
+      "percentage": "7.5%",
+      "top_representatives": [
+        {
+          "brand": "盒马鲜生 (Hema)",
+          "product": "半成品菜/烘焙",
+          "value": 275.1,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        },
+        {
+          "brand": "叮咚买菜 (预制菜业务)",
+          "product": "拳击虾/酸菜鱼半成品",
+          "value": 199.7,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        },
+        {
+          "brand": "林氏木业 (沙发类)",
+          "product": "大白熊懒人沙发",
+          "value": 183.4,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        }
+      ]
+    },
+    {
+      "key": "玄学叙事",
+      "section": "情绪补偿",
+      "brand_count": 21,
+      "percentage": "7.5%",
+      "top_representatives": [
+        {
+          "brand": "野兽派 (BULLKELION / 旗下香氛)",
+          "product": "桂花乌龙/橘子海香薰",
+          "value": 98.0,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        },
+        {
+          "brand": "蕉内 (Bananain)",
+          "product": "凉皮防晒服/无感内裤",
+          "value": 50.0,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "故宫文创",
+          "product": "故宫御守/脊兽盲盒",
+          "value": 23.2,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        }
+      ]
+    },
+    {
+      "key": "多巴胺与悦己主义",
+      "section": "情绪补偿",
+      "brand_count": 21,
+      "percentage": "7.5%",
+      "top_representatives": [
+        {
+          "brand": "Lululemon",
+          "product": "Align 瑜伽裤",
+          "value": 874.8,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        },
+        {
+          "brand": "乐事 (Lay's)",
+          "product": "原切薯片",
+          "value": 589.3,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        },
+        {
+          "brand": "瑞幸咖啡 (Starbucks)",
+          "product": "生椰拿铁/酱香拿铁",
+          "value": 249.0,
+          "metric": "GMV(亿)",
+          "data_source": "情绪补偿"
+        }
+      ]
+    },
+    {
+      "key": "科技平权",
+      "section": "智性决策",
+      "brand_count": 20,
+      "percentage": "7.2%",
+      "top_representatives": [
+        {
+          "brand": "追觅 (Dreame)",
+          "product": "追觅X30扫地机器人",
+          "value": 110.0,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "徕芬 (Laifen)",
+          "product": "徕芬高速吹风机SE",
+          "value": 26.5,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "极越 (Jiyue)",
+          "product": "极越01",
+          "value": 8.3,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        }
+      ]
+    },
+    {
+      "key": "信息平权",
+      "section": "智性决策",
+      "brand_count": 20,
+      "percentage": "7.2%",
+      "top_representatives": [
+        {
+          "brand": "哔哩哔哩 (Bilibili)",
+          "product": "B站知识区",
+          "value": 201.6,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "喜马拉雅 (Ximalaya)",
+          "product": "喜马拉雅VIP",
+          "value": 95.0,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "帆书 (FanDeng)",
+          "product": "帆书VIP",
+          "value": 16.2,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        }
+      ]
+    },
+    {
+      "key": "秩序与掌控感",
+      "section": "智性决策",
+      "brand_count": 20,
+      "percentage": "7.2%",
+      "top_representatives": [
+        {
+          "brand": "华为运动健康 (Huawei Wearables)",
+          "product": "HUAWEI WATCH GT4 / D系列",
+          "value": 925.7,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "佳明 (Garmin)",
+          "product": "Fenix 7 / Epix系列",
+          "value": 556.7,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "安克 (Anker)",
+          "product": "Anker Prime 充电基站",
+          "value": 175.0,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        }
+      ]
+    },
+    {
+      "key": "生产力与效率",
+      "section": "智性决策",
+      "brand_count": 20,
+      "percentage": "7.2%",
+      "top_representatives": [
+        {
+          "brand": "WPS Office",
+          "product": "WPS超级会员",
+          "value": 75.5,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "百度网盘",
+          "product": "百度网盘SVIP",
+          "value": 34.9,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "万兴科技 (Wondershare)",
+          "product": "万兴喵影(Filmora)",
+          "value": 13.1,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        }
+      ]
+    },
+    {
+      "key": "舒适感",
+      "section": "智性决策",
+      "brand_count": 20,
+      "percentage": "7.2%",
+      "top_representatives": [
+        {
+          "brand": "优衣库 (Uniqlo)",
+          "product": "AIRism凉感内衣 / 摇粒绒",
+          "value": 977.9,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "斯凯奇 (Skechers)",
+          "product": "Slip-ins 闪穿鞋 / 健步鞋",
+          "value": 254.9,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        },
+        {
+          "brand": "Ubras",
+          "product": "无尺码内衣",
+          "value": 78.6,
+          "metric": "GMV(亿)",
+          "data_source": "智性决策"
+        }
+      ]
+    }
+  ],
+  "premium_benchmarking": [
+    {
+      "motivation": "社交货币 与 优越感",
+      "section": "身份叙事",
+      "avg_premium_rate": "+79.9%",
+      "anchors": {
+        "premium_leader": "宝格丽 (Bvlgari)",
+        "value_disruptor": "苹果 (Apple - iPhone/Mac)"
+      }
+    },
+    {
+      "motivation": "圈层共振 与 小众DIY",
+      "section": "身份叙事",
+      "avg_premium_rate": "+62.1%",
+      "anchors": {
+        "premium_leader": "谷子/痛包文化 (Goods)",
+        "value_disruptor": "狼人杀/桌游"
+      }
+    },
+    {
+      "motivation": "秩序与掌控感",
+      "section": "智性决策",
+      "avg_premium_rate": "+50.7%",
+      "anchors": {
+        "premium_leader": "怒喵 (Angry Miao)",
+        "value_disruptor": "几光 (EZVALO)"
+      }
+    },
+    {
+      "motivation": "孤独焦虑",
+      "section": "情绪补偿",
+      "avg_premium_rate": "+42.5%",
+      "anchors": {
+        "premium_leader": "泡泡玛特 (POP MART)",
+        "value_disruptor": "网易云音乐 (NetEase Cloud Music)"
+      }
+    },
+    {
+      "motivation": "玄学叙事",
+      "section": "情绪补偿",
+      "avg_premium_rate": "+29.7%",
+      "anchors": {
+        "premium_leader": "闻献 (DOCUMENTS)",
+        "value_disruptor": "冰希黎 (Boitown)"
+      }
+    },
+    {
+      "motivation": "Lifestyle 与 户外叙事",
+      "section": "身份叙事",
+      "avg_premium_rate": "+29.2%",
+      "anchors": {
+        "premium_leader": "猛犸象 (Mammut)",
+        "value_disruptor": "迪卡侬 (Decathlon)"
+      }
+    },
+    {
+      "motivation": "懒人经济与Gap心态",
+      "section": "情绪补偿",
+      "avg_premium_rate": "+24.6%",
+      "anchors": {
+        "premium_leader": "空刻意面 (AIRMETER)",
+        "value_disruptor": "追觅 (Dreame)"
+      }
+    },
+    {
+      "motivation": "舒适感",
+      "section": "智性决策",
+      "avg_premium_rate": "+22.7%",
+      "anchors": {
+        "premium_leader": "内外 (NEIWAI)",
+        "value_disruptor": "匹克 (Peak)"
+      }
+    },
+    {
+      "motivation": "生产力与效率",
+      "section": "智性决策",
+      "avg_premium_rate": "+8.1%",
+      "anchors": {
+        "premium_leader": "Notion",
+        "value_disruptor": "ProcessOn"
+      }
+    },
+    {
+      "motivation": "信息平权",
+      "section": "智性决策",
+      "avg_premium_rate": "+7.1%",
+      "anchors": {
+        "premium_leader": "极客时间",
+        "value_disruptor": "微信读书 (WeChat Read)"
+      }
+    },
+    {
+      "motivation": "多巴胺与悦己主义",
+      "section": "情绪补偿",
+      "avg_premium_rate": "-2.9%",
+      "anchors": {
+        "premium_leader": "M Stand",
+        "value_disruptor": "名创优品 (MINISO)"
+      }
+    },
+    {
+      "motivation": "文化根脉 与 国潮觉醒",
+      "section": "身份叙事",
+      "avg_premium_rate": "-3.1%",
+      "anchors": {
+        "premium_leader": "泸州老窖",
+        "value_disruptor": "蜜雪冰城"
+      }
+    },
+    {
+      "motivation": "科技平权",
+      "section": "智性决策",
+      "avg_premium_rate": "-16.3%",
+      "anchors": {
+        "premium_leader": "极氪 (Zeekr)",
+        "value_disruptor": "徕芬 (Laifen)"
+      }
+    }
+  ],
+  "social_efficiency": [
+    {
+      "motivation": "科技平权",
+      "section": "智性决策",
+      "efficiency_score": 2.15,
+      "hot_topics": [
+        "#小米SU7",
+        "#大疆航拍"
+      ]
+    },
+    {
+      "motivation": "生产力与效率",
+      "section": "智性决策",
+      "efficiency_score": 2.07,
+      "hot_topics": [
+        "#剪映教程",
+        "#腾讯会议"
+      ]
+    },
+    {
+      "motivation": "玄学叙事",
+      "section": "情绪补偿",
+      "efficiency_score": 1.95,
+      "hot_topics": [
+        "#陶白白",
+        "#锦鲤大王"
+      ]
+    },
+    {
+      "motivation": "信息平权",
+      "section": "智性决策",
+      "efficiency_score": 1.17,
+      "hot_topics": [
+        "#B站学习",
+        "#豆包AI"
+      ]
+    },
+    {
+      "motivation": "多巴胺与悦己主义",
+      "section": "情绪补偿",
+      "efficiency_score": 0.32,
+      "hot_topics": [
+        "#瑞幸9.9",
+        "#喜茶联名"
+      ]
+    },
+    {
+      "motivation": "懒人经济与Gap心态",
+      "section": "情绪补偿",
+      "efficiency_score": 0.28,
+      "hot_topics": [
+        "#螺蛳粉自由",
+        "#盒马必买"
+      ]
+    },
+    {
+      "motivation": "孤独焦虑",
+      "section": "情绪补偿",
+      "efficiency_score": 0.27,
+      "hot_topics": [
+        "#原神",
+        "#找搭子"
+      ]
+    },
+    {
+      "motivation": "舒适感",
+      "section": "智性决策",
+      "efficiency_score": 0.2,
+      "hot_topics": [
+        "#优衣库穿搭",
+        "#添可洗地机"
+      ]
+    },
+    {
+      "motivation": "文化根脉 与 国潮觉醒",
+      "section": "身份叙事",
+      "efficiency_score": 0.17,
+      "hot_topics": [
+        "#黑神话悟空",
+        "#中国智造"
+      ]
+    },
+    {
+      "motivation": "秩序与掌控感",
+      "section": "智性决策",
+      "efficiency_score": 0.15,
+      "hot_topics": [
+        "#居家健身",
+        "#华为智能手表"
+      ]
+    },
+    {
+      "motivation": "Lifestyle 与 户外叙事",
+      "section": "身份叙事",
+      "efficiency_score": 0.13,
+      "hot_topics": [
+        "#始祖鸟穿搭",
+        "#全员北面"
+      ]
+    },
+    {
+      "motivation": "圈层共振 与 小众DIY",
+      "section": "身份叙事",
+      "efficiency_score": 0.08,
+      "hot_topics": [
+        "#B站神级二创",
+        "#三坑少女"
+      ]
+    },
+    {
+      "motivation": "社交货币 与 优越感",
+      "section": "身份叙事",
+      "efficiency_score": 0.04,
+      "hot_topics": [
+        "#苹果全家桶",
+        "#飞天茅台抢购"
+      ]
+    }
+  ],
+  "cross_logic_matrix": [
+    {
+      "logic_pair": [
+        "文化根脉 与 国潮觉醒",
+        "玄学叙事"
+      ],
+      "correlation": "极强",
+      "bridge_brands": [
+        "故宫文创",
+        "观夏 (To Summer)"
+      ]
+    },
+    {
+      "logic_pair": [
+        "懒人经济与Gap心态",
+        "科技平权"
+      ],
+      "correlation": "强",
+      "bridge_brands": [
+        "追觅 (Dreame)"
+      ]
+    },
+    {
+      "logic_pair": [
+        "玄学叙事",
+        "舒适感"
+      ],
+      "correlation": "强",
+      "bridge_brands": [
+        "蕉内 (Bananain)"
+      ]
+    },
+    {
+      "logic_pair": [
+        "多巴胺与悦己主义",
+        "玄学叙事"
+      ],
+      "correlation": "中",
+      "bridge_brands": [
+        "野兽派 (BULLKELION / 旗下香氛)"
+      ]
+    },
+    {
+      "logic_pair": [
+        "多巴胺与悦己主义",
+        "社交货币 与 优越感"
+      ],
+      "correlation": "中",
+      "bridge_brands": [
+        "Lululemon"
+      ]
+    }
+  ]
+}

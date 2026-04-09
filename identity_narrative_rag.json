@@ -1,0 +1,2154 @@
+[
+  {
+    "motivation": "Lifestyle 与 户外叙事",
+    "section": "身份叙事",
+    "prescription": "将专业户外装备日常化，用山系穿搭向外界宣告一种向往自然、健康且有品位的精英生活方式",
+    "market_context": {
+      "category": "户外运动/运动服饰/露营",
+      "market_size": "泛户外生活方式市场规模突破3000亿",
+      "cagr": "15.2%",
+      "capital_index": "5"
+    },
+    "brands": [
+      {
+        "brand_name": "萨洛蒙 (Salomon)",
+        "brand_sov": "山系穿搭(Gorpcore)绝对核心声量",
+        "search_index": "Salomon XT-6/新中产三件套热搜",
+        "premium_rate": "高（溢价率极高，二级市场炒卖）",
+        "products": [
+          {
+            "product_name": "XT-6 越野跑鞋",
+            "sales_volume": "热门配色一鞋难求",
+            "gmv": "中国区营收高速破10亿",
+            "core_value": "专业户外越野基因与机能风设计的完美融合，从大山走向城市CBD"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#新中产三件套",
+            "views": "15亿次+",
+            "sentiment_score": "92分（潮流标杆/难买）"
+          }
+        ]
+      },
+      {
+        "brand_name": "始祖鸟 (Arc'teryx)",
+        "brand_sov": "高端户外冲锋衣声量天花板",
+        "search_index": "始祖鸟硬壳/中年人三件套热搜",
+        "premium_rate": "极高（对标奢侈品）",
+        "products": [
+          {
+            "product_name": "Alpha SV/Beta LT冲锋衣",
+            "sales_volume": "核心款常年断货需配货",
+            "gmv": "中国区营收数十亿",
+            "core_value": "极致的防水透气科技面料与“鸟标”，成功塑造为金融圈/互联网高管的统一制服"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#始祖鸟穿搭",
+            "views": "30亿次+",
+            "sentiment_score": "95分（身份象征/中年男人顶级浪漫）"
+          }
+        ]
+      },
+      {
+        "brand_name": "迪卡侬 (Decathlon)",
+        "brand_sov": "大众户外运动声量基石",
+        "search_index": "平替始祖鸟/穷鬼乐园热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "抓绒衣/平价冲锋衣",
+            "sales_volume": "月销数十万件",
+            "gmv": "百亿级",
+            "core_value": "户外圈的优衣库，提供门槛极低的“户外体验券”，也是高级老炮的低调选择"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#迪卡侬神仙单品",
+            "views": "20亿次+",
+            "sentiment_score": "88分（良心企业/真香）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Patagonia (巴塔哥尼亚)",
+        "brand_sov": "环保/硬核户外圈层声量极高",
+        "search_index": "环保冲锋衣/巴塔哥尼亚热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Retro-X 抓绒衣/Torrentshell",
+            "sales_volume": "稳步增长",
+            "gmv": "数亿级",
+            "core_value": "“不要买这件夹克”的极致环保叙事，硅谷大佬最爱的“反消费主义”身份标签"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Patagonia环保",
+            "views": "5亿次+",
+            "sentiment_score": "94分（老钱风/极致环保）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Snow Peak (雪诺必克)",
+        "brand_sov": "高端精致露营(Glamping)开创者",
+        "search_index": "露营天幕/钛杯热搜",
+        "premium_rate": "高（露营界的爱马仕）",
+        "products": [
+          {
+            "product_name": "钛金属杯/帐篷",
+            "sales_volume": "露营季爆发",
+            "gmv": "过亿营收",
+            "core_value": "将野外生存升华为极其考究的审美体验，买的不仅是装备更是“户外美学”品味"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#精致露营",
+            "views": "8亿次+",
+            "sentiment_score": "90分（颜值即正义/露营天花板）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Brompton (小布)",
+        "brand_sov": "高端折叠自行车声量第一",
+        "search_index": "小布自行车/城市骑行热搜",
+        "premium_rate": "高（纯手工/极度保值）",
+        "products": [
+          {
+            "product_name": "经典C Line/T Line折叠车",
+            "sales_volume": "配额制发售",
+            "gmv": "数亿级",
+            "core_value": "无与伦比的折叠结构与英伦血统，中产阶级最爱的“城市4+2”短途出行社交名片"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#城市骑行",
+            "views": "10亿次+",
+            "sentiment_score": "96分（最保值理财产品/格调）"
+          }
+        ]
+      },
+      {
+        "brand_name": "HOKA ONE ONE",
+        "brand_sov": "厚底跑鞋/通勤跑鞋声量前列",
+        "search_index": "HOKA克利夫顿/通勤鞋热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "Clifton 9/Bondi 8",
+            "sales_volume": "月销数万双",
+            "gmv": "数十亿级",
+            "core_value": "夸张的厚底提供极佳缓震，不仅是马拉松跑者挚爱，更成为城市通勤族的站立救星"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#通勤穿搭",
+            "views": "12亿次+",
+            "sentiment_score": "89分（踩屎感/显高）"
+          }
+        ]
+      },
+      {
+        "brand_name": "牧高笛 (Mobi Garden)",
+        "brand_sov": "大众露营装备声量第一",
+        "search_index": "露营推车/入门帐篷热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "冷山系列帐篷/营地车",
+            "sales_volume": "月销十万件级",
+            "gmv": "年营收破十亿",
+            "core_value": "极致性价比，让年轻人低成本开启“周末逃离城市”的生活方式初体验"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#新手露营装备",
+            "views": "6亿次+",
+            "sentiment_score": "85分（性价比之王/闭眼入）"
+          }
+        ]
+      },
+      {
+        "brand_name": "索尼微单 (Sony Alpha)",
+        "brand_sov": "影像记录生活方式声量霸主",
+        "search_index": "索尼A7C2/Vlog相机热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "A7M4 / A7C2",
+            "sales_volume": "全画幅微单市占率第一",
+            "gmv": "百亿级",
+            "core_value": "顶级的对焦与画质，成为无数博主与摄影爱好者记录与分享“高质量生活”的必备工具"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#索尼微单",
+            "views": "25亿次+",
+            "sentiment_score": "92分（生产力/毒法师）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Stanley (史丹利)",
+        "brand_sov": "水杯界社交货币新贵",
+        "search_index": "巨无霸吸管杯/户外水壶热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "Quencher 巨无霸吸管杯",
+            "sales_volume": "爆火出圈，代购狂热",
+            "gmv": "单品营收数十亿",
+            "core_value": "原本是硬核户外保温壶，成功转型为北美及国内女孩出街必备的“补水+时尚”配饰"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Stanley水杯",
+            "views": "15亿次+",
+            "sentiment_score": "88分（多巴胺色彩/实用）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Burton (伯顿)",
+        "brand_sov": "单板滑雪服饰/文化图腾",
+        "search_index": "单板滑雪/AK系列热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "AK系列滑雪服",
+            "sales_volume": "雪季一衣难求",
+            "gmv": "数亿级",
+            "core_value": "单板滑雪运动的开创者与布道者，穿上AK即意味着进入硬核滑雪圈层"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#单板滑雪",
+            "views": "8亿次+",
+            "sentiment_score": "94分（雪圈顶流/信仰）"
+          }
+        ]
+      },
+      {
+        "brand_name": "On (昂跑)",
+        "brand_sov": "中产跑步新贵声量爆发",
+        "search_index": "昂跑Cloud/费德勒热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Cloudmonster / Cloudsurfer",
+            "sales_volume": "翻倍增长",
+            "gmv": "数十亿营收",
+            "core_value": "极具辨识度的镂空云模块鞋底设计，接棒始祖鸟成为“新中产三件套”跑鞋代表"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#新中产跑鞋",
+            "views": "5亿次+",
+            "sentiment_score": "90分（脚感奇特/精英感）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Lowe Alpine / 骆驼",
+        "brand_sov": "泛户外服饰声量大盘",
+        "search_index": "骆驼冲锋衣/平价冲锋衣热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "三合一冲锋衣",
+            "sales_volume": "双十一销量破百万件",
+            "gmv": "数十亿级",
+            "core_value": "打爆下沉市场，让冲锋衣彻底取代羽绒服成为大学男生和外卖小哥的“国民冬季制服”"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#男大学生穿搭",
+            "views": "10亿次+",
+            "sentiment_score": "80分（全员撞衫/防风保暖）"
+          }
+        ]
+      },
+      {
+        "brand_name": "凯乐石 (Kailas)",
+        "brand_sov": "国产专业硬核户外",
+        "search_index": "凯乐石冲锋衣热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "MONT硬壳冲锋衣",
+            "sales_volume": "月销数万件",
+            "gmv": "数十亿",
+            "core_value": "真正能登顶珠峰的国货之光，硬核山友的身份图腾与高性价比平替"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#凯乐石",
+            "views": "10亿次+",
+            "sentiment_score": "92分（国货之光/硬核）"
+          }
+        ]
+      },
+      {
+        "brand_name": "探路者 (Toread)",
+        "brand_sov": "国民级户外老牌",
+        "search_index": "探路者徒步鞋热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "极地防寒服/徒步鞋",
+            "sales_volume": "月销十万级",
+            "gmv": "数十亿",
+            "core_value": "伴随一代人成长的国民户外，适合大众轻徒步与极地科考双重背书"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#探路者",
+            "views": "8亿次+",
+            "sentiment_score": "85分（老牌靠谱）"
+          }
+        ]
+      },
+      {
+        "brand_name": "北面 (The North Face)",
+        "brand_sov": "街头与户外跨界霸主",
+        "search_index": "北面羽绒服1996热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "1996 Nuptse羽绒服",
+            "sales_volume": "冬季全员撞衫",
+            "gmv": "百亿级",
+            "core_value": "从雪山巅峰走向街头潮流，冬天穿北面是潮人与大学生的统一制服"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#全员北面",
+            "views": "30亿次+",
+            "sentiment_score": "90分（潮人标配/保暖）"
+          }
+        ]
+      },
+      {
+        "brand_name": "哥伦比亚 (Columbia)",
+        "brand_sov": "大众休闲户外",
+        "search_index": "哥伦比亚抓绒热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "三合一冲锋衣",
+            "sales_volume": "常年热销",
+            "gmv": "数十亿",
+            "core_value": "提供极度稳定且实用的户外保护，美式休闲户外的老牌代表"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Columbia",
+            "views": "6亿次+",
+            "sentiment_score": "86分（经典实用）"
+          }
+        ]
+      },
+      {
+        "brand_name": "猛犸象 (Mammut)",
+        "brand_sov": "高端技术流户外",
+        "search_index": "猛犸象软壳热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "极限系列软壳",
+            "sales_volume": "资深圈层热捧",
+            "gmv": "数亿",
+            "core_value": "极其昂贵且低调的瑞士品牌，懂的都懂，户外老炮的高阶社交名片"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#猛犸象",
+            "views": "3亿次+",
+            "sentiment_score": "95分（顶级老炮/逼格）"
+          }
+        ]
+      },
+      {
+        "brand_name": "挪客 (Naturehike)",
+        "brand_sov": "精致露营性价比之王",
+        "search_index": "挪客帐篷/蛋卷桌热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "自动帐篷/露营车",
+            "sales_volume": "月销数十万件",
+            "gmv": "数十亿",
+            "core_value": "以极低门槛提供全套高颜值露营装备，年轻人的第一套露营标配"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#挪客露营",
+            "views": "12亿次+",
+            "sentiment_score": "88分（便宜好看/新手友好）"
+          }
+        ]
+      },
+      {
+        "brand_name": "捷安特 (Giant)",
+        "brand_sov": "自行车绝对大盘",
+        "search_index": "捷安特Escape热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "Escape/TCR系列",
+            "sales_volume": "年销数百万辆",
+            "gmv": "百亿级",
+            "core_value": "无论通勤还是破风竞速，它是骑行圈避不开的基石与信仰"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#捷安特",
+            "views": "15亿次+",
+            "sentiment_score": "92分（永远的神/结实）"
+          }
+        ]
+      },
+      {
+        "brand_name": "美利达 (Merida)",
+        "brand_sov": "公路/山地双修巨头",
+        "search_index": "美利达斯特拉热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "斯特拉/挑战者系列",
+            "sales_volume": "年销数百万辆",
+            "gmv": "百亿级",
+            "core_value": "与捷安特并列的双雄，骑上它即代表正式踏入骑行运动的圈子"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#美利达",
+            "views": "12亿次+",
+            "sentiment_score": "90分（性价比/骑行入坑）"
+          }
+        ]
+      },
+      {
+        "brand_name": "崔克 (Trek)",
+        "brand_sov": "高端自行车贵族",
+        "search_index": "Trek马东热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Madone(马东)公路车",
+            "sales_volume": "万元至十万级",
+            "gmv": "数十亿",
+            "core_value": "环法冠军座驾，高昂的售价与极具侵略性的气动外形，是大哥们的顶级大玩具"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Trek公路车",
+            "views": "8亿次+",
+            "sentiment_score": "94分（豪车/帅气）"
+          }
+        ]
+      },
+      {
+        "brand_name": "颂拓 (Suunto)",
+        "brand_sov": "专业户外腕表老牌",
+        "search_index": "颂拓斯巴达热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "垂直系列/9 Peak",
+            "sales_volume": "稳定出货",
+            "gmv": "数亿",
+            "core_value": "与佳明齐名的芬兰军工级腕表，为极地探险者提供最可靠的数据掌控"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#颂拓手表",
+            "views": "4亿次+",
+            "sentiment_score": "90分（军工品质/硬核）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Lowa",
+        "brand_sov": "顶级徒步鞋代名词",
+        "search_index": "Lowa Renegade热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Renegade(中帮徒步鞋)",
+            "sales_volume": "月销数千双",
+            "gmv": "数亿",
+            "core_value": "重装徒步圈的绝对信仰，穿上Lowa就意味着你不是在逛公园，而是在征服高山"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Lowa徒步鞋",
+            "views": "3亿次+",
+            "sentiment_score": "95分（防滑耐操/信仰）"
+          }
+        ]
+      },
+      {
+        "brand_name": "欧斯派 (Osprey)",
+        "brand_sov": "户外背包天花板",
+        "search_index": "Osprey小鹰背包热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "小鹰(Kestrel)系列",
+            "sales_volume": "背包界销量霸主",
+            "gmv": "数亿",
+            "core_value": "无可挑剔的背负系统，包治百病，是所有背包客后背上的勋章"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#小鹰背包",
+            "views": "5亿次+",
+            "sentiment_score": "96分（最强背负/买包首选）"
+          }
+        ]
+      },
+      {
+        "brand_name": "黑冰 (Blackice)",
+        "brand_sov": "国产轻量化羽绒/睡袋",
+        "search_index": "黑冰睡袋/羽绒服热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "B系列羽绒睡袋",
+            "sales_volume": "户外圈人手一件",
+            "gmv": "数亿",
+            "core_value": "用极高的蓬松度与性价比，击穿了国外睡袋的溢价，徒步露营过夜的保命神器"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#黑冰睡袋",
+            "views": "4亿次+",
+            "sentiment_score": "92分（保命神器/性价比）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "motivation": "圈层共振 与 小众DIY",
+    "section": "身份叙事",
+    "prescription": "通过黑话、极高的参与门槛或深度定制，筛选同类，形成强烈的“圈内人”归属感与排他性",
+    "market_context": {
+      "category": "潮玩/同人文化/客制化/小众爱好",
+      "market_size": "Z世代圈层消费及泛二次元市场超2000亿",
+      "cagr": "19.8%",
+      "capital_index": "4"
+    },
+    "brands": [
+      {
+        "brand_name": "谷子/痛包文化 (Goods)",
+        "brand_sov": "二次元圈层实体消费绝对核心",
+        "search_index": "吃谷/吧唧/痛包热搜",
+        "premium_rate": "极高（二级市场“海景房”价格）",
+        "products": [
+          {
+            "product_name": "徽章(吧唧)/立牌/色纸/痛包",
+            "sales_volume": "单次漫展/线下谷店扫货千万级",
+            "gmv": "百亿级",
+            "core_value": "购买带有IP角色的周边并密集展示（痛包），向外界高调宣示“我推”（最爱角色）的厨力与身份"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#吃谷日常",
+            "views": "40亿次+",
+            "sentiment_score": "90分（为爱发电/狂热）"
+          }
+        ]
+      },
+      {
+        "brand_name": "万代 (Bandai) / 胶佬",
+        "brand_sov": "拼装模型(高达)圈层统治者",
+        "search_index": "高达模型/拼装/喷涂热搜",
+        "premium_rate": "中等（部分PB限定溢价极高）",
+        "products": [
+          {
+            "product_name": "MG/RG/PG系列高达模型",
+            "sales_volume": "年出货量千万盒级",
+            "gmv": "数十亿营收",
+            "core_value": "极高的动手门槛（剪钳、打磨、渗线、喷涂），拼装过程本身即是修心与圈层认证"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#胶佬的日常",
+            "views": "25亿次+",
+            "sentiment_score": "95分（男人的浪漫/耐心）"
+          }
+        ]
+      },
+      {
+        "brand_name": "键圈 (客制化机械键盘)",
+        "brand_sov": "极客与桌搭圈层高门槛消费",
+        "search_index": "客制化轴体/套件打字音热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "铝坨坨套件/麻将音轴体/GMK键帽",
+            "sales_volume": "团购制，发货周期长达数月",
+            "gmv": "十亿级市场",
+            "core_value": "拒绝量产，从PCB、定位板到每一颗轴体的润滑都亲力亲为，追求极致手感与专属声音"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#客制化键盘",
+            "views": "15亿次+",
+            "sentiment_score": "88分（退烧/HIFI音）"
+          }
+        ]
+      },
+      {
+        "brand_name": "汉服/JK/Lolita (三坑)",
+        "brand_sov": "亚文化服饰声量三巨头",
+        "search_index": "马面裙/萌款JK热搜",
+        "premium_rate": "中高（绝版溢价）",
+        "products": [
+          {
+            "product_name": "织造司马面裙/各种柄图JK",
+            "sales_volume": "爆款月销过万",
+            "gmv": "百亿级市场",
+            "core_value": "拥有严格的版型考究与圈内规矩（穿山甲、山正之争），穿上即代表认同该圈层的审美体系"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#三坑少女",
+            "views": "50亿次+",
+            "sentiment_score": "85分（文化自信/可爱）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Molly / DIMOO (改娃圈)",
+        "brand_sov": "潮玩高阶玩法",
+        "search_index": "盲盒改娃/重涂热搜",
+        "premium_rate": "高（手作师傅加工费极高）",
+        "products": [
+          {
+            "product_name": "泡泡玛特盲盒+树脂土/喷漆改造",
+            "sales_volume": "改娃接单排队至半年后",
+            "gmv": "千万级灰产",
+            "core_value": "不满足于量产盲盒，通过重塑面部、服饰打造全世界独一无二的专属娃，极致的小众DIY"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#盲盒改娃",
+            "views": "8亿次+",
+            "sentiment_score": "92分（神仙太太/独一无二）"
+          }
+        ]
+      },
+      {
+        "brand_name": "大漆/非遗手作",
+        "brand_sov": "国风小众手工圈层爆发",
+        "search_index": "漂漆扇/大漆珠串热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "非遗大漆体验课/漂漆扇",
+            "sales_volume": "周末体验课爆满",
+            "gmv": "过亿级",
+            "core_value": "万物皆可大漆，不可预测的纹理产生强烈的孤品感，兼具东方美学与动手乐趣"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#非遗大漆",
+            "views": "6亿次+",
+            "sentiment_score": "96分（东方色彩/惊艳）"
+          }
+        ]
+      },
+      {
+        "brand_name": "手帐圈 (Hobonichi / MT)",
+        "brand_sov": "纸笔书写圈层的终极仪式感",
+        "search_index": "手帐排版/胶带拼贴热搜",
+        "premium_rate": "高（进口文具溢价）",
+        "products": [
+          {
+            "product_name": "Hobo一日一页/特种纸胶带",
+            "sales_volume": "双十一/年底大促爆发",
+            "gmv": "数十亿市场",
+            "core_value": "将日常记录升华为繁复的排版艺术，手帐本是展现个人审美与生活态度的终极画布"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#手帐排版",
+            "views": "12亿次+",
+            "sentiment_score": "89分（治愈/热爱生活）"
+          }
+        ]
+      },
+      {
+        "brand_name": "棉花娃娃",
+        "brand_sov": "粉圈与同人文化衍生巨头",
+        "search_index": "买警/换骨架/娃衣热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "20cm无属性/有属性棉花娃娃",
+            "sales_volume": "众筹模式",
+            "gmv": "十亿级",
+            "core_value": "从饭圈衍生而出，通过为娃娃购买海量“娃衣”、梳理发型（rua娃），投射母爱与养成感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#棉花娃娃",
+            "views": "20亿次+",
+            "sentiment_score": "86分（女鹅/可爱）"
+          }
+        ]
+      },
+      {
+        "brand_name": "剧本杀/跑团",
+        "brand_sov": "线下沉浸式圈层社交",
+        "search_index": "剧本杀情感本/硬核推理热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "线下剧本杀体验门票",
+            "sales_volume": "周末社交主流选择",
+            "gmv": "百亿级",
+            "core_value": "四个小时的极致角色扮演，在不同的剧本中体验他人的人生，形成极强的“同车”情感羁绊"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#剧本杀推荐",
+            "views": "18亿次+",
+            "sentiment_score": "90分（水龙头/烧脑）"
+          }
+        ]
+      },
+      {
+        "brand_name": "B站 (Bilibili 鬼畜/玩梗)",
+        "brand_sov": "年轻人亚文化策源地",
+        "search_index": "全明星鬼畜/二创热搜",
+        "premium_rate": "免费",
+        "products": [
+          {
+            "product_name": "UP主二创视频",
+            "sales_volume": "弹幕量/投币量惊人",
+            "gmv": "流量变现",
+            "core_value": "只有懂这个梗（如“鸡汤来咯”、“退钱”），你才是自己人，弹幕是最高的社交货币"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#B站神级二创",
+            "views": "100亿次+",
+            "sentiment_score": "85分（离谱/造梗机器）"
+          }
+        ]
+      },
+      {
+        "brand_name": "复古微单 (富士/理光)",
+        "brand_sov": "胶片模拟与复古摄影圈",
+        "search_index": "富士直出/CCD滤镜热搜",
+        "premium_rate": "高（全线溢价一机难求）",
+        "products": [
+          {
+            "product_name": "富士X100VI / 理光GR3",
+            "sales_volume": "溢价几千仍需抢购",
+            "gmv": "数十亿营收",
+            "core_value": "拒绝复杂的后期，利用自带胶片模拟滤镜直出，营造一种松弛、复古的老法师身份"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#富士胶片模拟",
+            "views": "30亿次+",
+            "sentiment_score": "94分（氛围感/理财产品）"
+          }
+        ]
+      },
+      {
+        "brand_name": "骑行圈 (闪电/梅花)",
+        "brand_sov": "硬核公路车圈层",
+        "search_index": "破风架/碳刀热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "Specialized(闪电) Tarmac",
+            "sales_volume": "万元起步上不封顶",
+            "gmv": "数十亿",
+            "core_value": "除了腿力，装备更是财力与审美的体现，穿锁鞋骑公路车是城市新中产的高级社交名片"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#公路车",
+            "views": "15亿次+",
+            "sentiment_score": "92分（拉爆/帅就完了）"
+          }
+        ]
+      },
+      {
+        "brand_name": "仲夏物语",
+        "brand_sov": "Lolita服饰代表",
+        "search_index": "仲夏物语洛丽塔热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "茶会款/日常款小裙子",
+            "sales_volume": "限量发售常秒空",
+            "gmv": "数亿",
+            "core_value": "繁复的蕾丝与澎湃的裙摆，穿上即化身欧洲贵族少女，圈内极度讲究正版意识"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Lolita小裙子",
+            "views": "8亿次+",
+            "sentiment_score": "90分（华丽/破产三姐妹）"
+          }
+        ]
+      },
+      {
+        "brand_name": "重回汉唐",
+        "brand_sov": "汉服圈元老级品牌",
+        "search_index": "重回汉唐汉服热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "明制/宋制汉服",
+            "sales_volume": "爆款月销过万",
+            "gmv": "数十亿",
+            "core_value": "从形制考究到日常化改良，承载了同袍们复兴传统服饰的深厚执念"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#重回汉唐",
+            "views": "10亿次+",
+            "sentiment_score": "92分（形制正确/仙气）"
+          }
+        ]
+      },
+      {
+        "brand_name": "中牌制服馆",
+        "brand_sov": "JK制服圈校服霸主",
+        "search_index": "中牌冰淇淋/沙华热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "格子裙(格裙)",
+            "sales_volume": "热门格裙百万级销量",
+            "gmv": "数十亿",
+            "core_value": "一裙难求的“萌款”制造机，极具青春气息与少女感的百褶裙图腾"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#JK制服",
+            "views": "15亿次+",
+            "sentiment_score": "88分（青春/百搭）"
+          }
+        ]
+      },
+      {
+        "brand_name": "龙魂 (Loongsoul)",
+        "brand_sov": "BJD娃娃高端品牌",
+        "search_index": "龙魂BJD热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "四分/三分树脂人偶",
+            "sales_volume": "接单工期长达半年",
+            "gmv": "数亿",
+            "core_value": "极致精美与诡谲的树脂球体关节人偶，玩家为娃化妆、做衣服，极度烧钱与硬核"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#BJD娃娃",
+            "views": "5亿次+",
+            "sentiment_score": "95分（养娃/神仙颜值）"
+          }
+        ]
+      },
+      {
+        "brand_name": "狼人杀/桌游",
+        "brand_sov": "古早且长青的线下社交",
+        "search_index": "狼人杀套路/面杀热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "线下桌游吧消费",
+            "sales_volume": "周末聚会常态",
+            "gmv": "数十亿",
+            "core_value": "通过逻辑盘问与飙演技，完成智力上的博弈与圈层内的强互动社交"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#狼人杀",
+            "views": "20亿次+",
+            "sentiment_score": "85分（烧脑/友尽）"
+          }
+        ]
+      },
+      {
+        "brand_name": "翼鲲 (Yikun)",
+        "brand_sov": "飞盘运动破圈推手",
+        "search_index": "翼鲲飞盘热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "专业极限飞盘",
+            "sales_volume": "月销数万片",
+            "gmv": "过亿",
+            "core_value": "从露营草地走向专业赛事，用一块低门槛的塑料盘串联起城市新中产的汗水与社交"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#飞盘运动",
+            "views": "8亿次+",
+            "sentiment_score": "88分（社交神器/暴汗）"
+          }
+        ]
+      },
+      {
+        "brand_name": "YOW (陆冲板)",
+        "brand_sov": "陆地冲浪板鼻祖",
+        "search_index": "YOW陆冲热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "各类涂鸦陆冲板",
+            "sales_volume": "万元级装备销量高",
+            "gmv": "数亿",
+            "core_value": "将海浪上的冲浪感平移到城市街道，无雪无浪也能滑，城市街头的高级耍帅工具"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#陆地冲浪",
+            "views": "6亿次+",
+            "sentiment_score": "92分（丝滑/核心力量）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Santa Cruz",
+        "brand_sov": "街头滑板老牌图腾",
+        "search_index": "Santa Cruz尖叫之手热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "双翘滑板/潮流服饰",
+            "sales_volume": "滑手标配",
+            "gmv": "数亿",
+            "core_value": "极具辨识度的“尖叫之手”Logo，代表了反叛、自由与最纯正的街头滑板亚文化"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#街头滑板",
+            "views": "4亿次+",
+            "sentiment_score": "90分（够OG/叛逆）"
+          }
+        ]
+      },
+      {
+        "brand_name": "G-SHOCK",
+        "brand_sov": "涂鸦/街舞/潮人标配腕表",
+        "search_index": "G-SHOCK农家橡树热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "小方块/农家橡树",
+            "sales_volume": "全球累计销量过亿",
+            "gmv": "百亿级",
+            "core_value": "砸不坏的电子表，拥有无数潮流联名，是从高中生到街头老炮手腕上的统一暗号"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#GSHOCK",
+            "views": "15亿次+",
+            "sentiment_score": "94分（耐操/潮）"
+          }
+        ]
+      },
+      {
+        "brand_name": "悦刻 (RELX)",
+        "brand_sov": "电子烟圈层社交",
+        "search_index": "悦刻雾化弹热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "换弹式电子烟",
+            "sales_volume": "政策前销量极高",
+            "gmv": "百亿级",
+            "core_value": "曾经的夜店与酒吧社交硬通货，“借个火”变成了“借个烟弹”的圈层共振"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#电子烟",
+            "views": "10亿次+",
+            "sentiment_score": "80分（社交润滑剂/争议）"
+          }
+        ]
+      },
+      {
+        "brand_name": "寻找独角兽 (F.U.N)",
+        "brand_sov": "潮玩圈的隐形巨头",
+        "search_index": "寻找独角兽Farmer Bob热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Farmer Bob/RiCO盲盒",
+            "sales_volume": "单系列破百万只",
+            "gmv": "数十亿",
+            "core_value": "与泡泡玛特齐名的高阶潮玩，限量发售与极高的二级市场溢价，抽盒成为极度上瘾的DIY"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#寻找独角兽",
+            "views": "8亿次+",
+            "sentiment_score": "88分（端盒/欧气）"
+          }
+        ]
+      },
+      {
+        "brand_name": "EGA密室逃脱",
+        "brand_sov": "沉浸式恐怖/解密体验",
+        "search_index": "EGA密室/NPC贴脸热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "线下大型机械/实景密室",
+            "sales_volume": "周末预约爆满",
+            "gmv": "百亿级",
+            "core_value": "花费几百块在声光电的极致恐怖或解密中体验心跳加速，是年轻群体破冰的终极场景"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#密室逃脱",
+            "views": "12亿次+",
+            "sentiment_score": "92分（刺激/又菜又爱玩）"
+          }
+        ]
+      },
+      {
+        "brand_name": "草莓音乐节 (摩登天空)",
+        "brand_sov": "独立音乐与青年狂欢",
+        "search_index": "草莓音乐节阵容/穿搭热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "音乐节门票/周边",
+            "sales_volume": "单场数万人次",
+            "gmv": "数亿",
+            "core_value": "摇旗、开火车、Pogo，在泥地里听摇滚乐是叛逆青年的终极线下大狂欢与身份认同"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#草莓音乐节",
+            "views": "20亿次+",
+            "sentiment_score": "95分（永远年轻/躁动）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "motivation": "社交货币 与 优越感",
+    "section": "身份叙事",
+    "prescription": "消费作为一种社交媒介，用高辨识度或稀缺性的商品在朋友圈/小红书换取点赞，构建“我过得很好”的优越人设",
+    "market_context": {
+      "category": "奢侈品/高端餐饮/潮流单品",
+      "market_size": "泛社交货币与轻奢消费超万亿",
+      "cagr": "10.5%",
+      "capital_index": "4"
+    },
+    "brands": [
+      {
+        "brand_name": "茅台 (Moutai)",
+        "brand_sov": "中国社交货币的绝对天花板",
+        "search_index": "飞天茅台/原箱热搜霸榜",
+        "premium_rate": "极高（一瓶难求）",
+        "products": [
+          {
+            "product_name": "53度飞天茅台",
+            "sales_volume": "全年满负荷生产仍供不应求",
+            "gmv": "年营收破1500亿",
+            "core_value": "已经脱离了饮品属性，成为政商社交、求人办事、展示实力的终极硬通货与金融产品"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#飞天茅台抢购",
+            "views": "50亿次+",
+            "sentiment_score": "90分（硬通货/尊贵）"
+          }
+        ]
+      },
+      {
+        "brand_name": "苹果 (Apple - iPhone/Mac)",
+        "brand_sov": "科技圈的底层社交货币",
+        "search_index": "iPhone 15 Pro/苹果生态热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "iPhone / MacBook Pro",
+            "sales_volume": "大中华区出货量千万级",
+            "gmv": "大中华区营收数千亿",
+            "core_value": "无缝打通的生态与极简设计，星巴克气氛组与都市白领标配，代表了先进生产力与品位"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#苹果全家桶",
+            "views": "100亿次+",
+            "sentiment_score": "85分（流畅/闭环生态）"
+          }
+        ]
+      },
+      {
+        "brand_name": "戴森 (Dyson)",
+        "brand_sov": "家电界的高级社交名片",
+        "search_index": "戴森吹风机/吸尘器热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Supersonic 吹风机",
+            "sales_volume": "被平替冲击但高端盘稳固",
+            "gmv": "百亿级",
+            "core_value": "凭借工业设计与黑科技，将吹头发、搞卫生这种庸俗家务，升华为极具中产优越感的仪式"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#戴森黑科技",
+            "views": "20亿次+",
+            "sentiment_score": "88分（轻奢/贵是我的缺点）"
+          }
+        ]
+      },
+      {
+        "brand_name": "LV / Chanel / Hermes",
+        "brand_sov": "奢侈品老钱风三巨头",
+        "search_index": "香奈儿涨价/爱马仕配货热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "经典款包袋",
+            "sales_volume": "越涨价越买",
+            "gmv": "中国区营收超千亿",
+            "core_value": "最简单粗暴的财力证明，阶级跨越的视觉符号，女性朋友圈最高赞的源泉"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#人生第一个香奈儿",
+            "views": "40亿次+",
+            "sentiment_score": "82分（保值/炫耀）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Supreme",
+        "brand_sov": "街头潮流社交货币鼻祖",
+        "search_index": "Supreme联名/Box Logo热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Box Logo 卫衣/板砖/万物",
+            "sales_volume": "发售即抢空",
+            "gmv": "数十亿",
+            "core_value": "万物皆可印红底白字Logo，代表叛逆、街头与“我很酷”的青年亚文化态度"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Supreme穿搭",
+            "views": "15亿次+",
+            "sentiment_score": "80分（万物皆可联名/潮人标配）"
+          }
+        ]
+      },
+      {
+        "brand_name": "lululemon (Align裤)",
+        "brand_sov": "运动圈的社交名片",
+        "search_index": "Lululemon OOTD热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Align 瑜伽裤",
+            "sales_volume": "女性运动赛道统治级",
+            "gmv": "百亿级",
+            "core_value": "不仅仅是瑜伽裤，它是通往飞盘、普拉提、高端健身房等新中产社交圈的入场券"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Lululemon女孩",
+            "views": "25亿次+",
+            "sentiment_score": "92分（自律/翘臀）"
+          }
+        ]
+      },
+      {
+        "brand_name": "拉夫劳伦 (Ralph Lauren)",
+        "brand_sov": "老钱风/常春藤风声量核心",
+        "search_index": "拉夫劳伦麻花毛衣/老钱风热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "绞花针织衫/Polo衫",
+            "sales_volume": "复古回潮销量大涨",
+            "gmv": "数十亿",
+            "core_value": "不显山露水，用低调的小马标和高质感面料，营造出一种不用努力就很有钱的Old Money气质"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#老钱风穿搭",
+            "views": "12亿次+",
+            "sentiment_score": "90分（松弛感/高级）"
+          }
+        ]
+      },
+      {
+        "brand_name": "黑珍珠/米其林餐厅",
+        "brand_sov": "高端餐饮打卡文化",
+        "search_index": "上海黑珍珠/Fine Dining热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "高端主厨定制套餐(Omakase)",
+            "sales_volume": "节日需提前一月预定",
+            "gmv": "单店营收极高",
+            "core_value": "吃什么不重要，环境出片、摆盘精致、主厨讲故事，这顿饭的终极意义在于发朋友圈定位"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#FineDining",
+            "views": "8亿次+",
+            "sentiment_score": "85分（仪式感/贵价打卡）"
+          }
+        ]
+      },
+      {
+        "brand_name": "乐高 (LEGO)",
+        "brand_sov": "玩具界的硬通货",
+        "search_index": "乐高保时捷/法拉利/街景热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "机械组超跑/大型街景",
+            "sales_volume": "成人玩家贡献巨大",
+            "gmv": "中国区营收破百亿",
+            "core_value": "送给大人的昂贵积木，拼搭完成后的巨大成品摆在客厅，是绝佳的品味展示与破冰话题"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#乐高机械组",
+            "views": "30亿次+",
+            "sentiment_score": "95分（童心未泯/镇宅之宝）"
+          }
+        ]
+      },
+      {
+        "brand_name": "理想汽车 (Li Auto)",
+        "brand_sov": "奶爸群体社交货币",
+        "search_index": "理想L9/冰箱彩电大沙发热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "理想L系列SUV",
+            "sales_volume": "月销破5万辆",
+            "gmv": "千亿营收规模",
+            "core_value": "精准切中“顾家好男人”人设，买理想等于向亲戚朋友宣告：我事业有成且极度爱老婆孩子"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#理想L9",
+            "views": "40亿次+",
+            "sentiment_score": "88分（移动的家/奶爸神车）"
+          }
+        ]
+      },
+      {
+        "brand_name": "SK-II / 海蓝之谜 (La Mer)",
+        "brand_sov": "贵妇护肤品社交名片",
+        "search_index": "神仙水/海蓝之谜面霜热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "神仙水 / 奇迹面霜",
+            "sales_volume": "大促常年霸榜",
+            "gmv": "百亿级",
+            "core_value": "梳妆台上的C位，高昂的价格本身就是效用的一部分，提供一种“我值得最好”的心理暗示"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#贵妇护肤",
+            "views": "20亿次+",
+            "sentiment_score": "90分（抗老/金钱的味道）"
+          }
+        ]
+      },
+      {
+        "brand_name": "劳力士 (Rolex)",
+        "brand_sov": "机械表社交货币天花板",
+        "search_index": "劳力士绿水鬼/黑水鬼热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "潜航者(水鬼)/迪通拿",
+            "sales_volume": "需配货/搭售",
+            "gmv": "数百亿",
+            "core_value": "一劳永逸，最简单粗暴的财富与地位象征，二级市场极其坚挺的硬通货"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#劳力士水鬼",
+            "views": "25亿次+",
+            "sentiment_score": "95分（多劳多得/保值）"
+          }
+        ]
+      },
+      {
+        "brand_name": "保时捷 (Porsche)",
+        "brand_sov": "豪华车鄙视链顶端",
+        "search_index": "保时捷911/帕拉梅拉热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "911 / Macan",
+            "sales_volume": "中国区销量占全球大头",
+            "gmv": "千亿级",
+            "core_value": "选配比车贵，超越BBA的极致优越感，开保时捷是人生赢家最直白的宣言"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#保时捷911",
+            "views": "30亿次+",
+            "sentiment_score": "92分（梦想之车/渣男神车）"
+          }
+        ]
+      },
+      {
+        "brand_name": "蔚来 (NIO)",
+        "brand_sov": "新中产/精英圈层电车",
+        "search_index": "蔚来换电/牛屋热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "ET5 / ES8",
+            "sales_volume": "月销两万辆级",
+            "gmv": "数百亿",
+            "core_value": "买的不是车而是极致的海底捞式服务与NIO House的高端车主社交圈"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#蔚来汽车",
+            "views": "20亿次+",
+            "sentiment_score": "88分（服务天花板/车主自豪感）"
+          }
+        ]
+      },
+      {
+        "brand_name": "特斯拉 (Tesla)",
+        "brand_sov": "科技极客与中产电车名片",
+        "search_index": "特斯拉Model 3/降价热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "Model Y / Model 3",
+            "sales_volume": "全球销冠",
+            "gmv": "千亿级",
+            "core_value": "马斯克光环加持，极简内饰与FSD智驾，代表了拥抱未来科技的先锋身份"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#特斯拉",
+            "views": "50亿次+",
+            "sentiment_score": "85分（科技感/毛坯房）"
+          }
+        ]
+      },
+      {
+        "brand_name": "外星人 (Alienware)",
+        "brand_sov": "电竞笔电的奢侈品",
+        "search_index": "外星人笔记本热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "Area-51m / x16",
+            "sales_volume": "销量稳定",
+            "gmv": "数十亿",
+            "core_value": "发光的骷髅头Logo，性能虽然被平替追赶，但它是大学宿舍里最具压迫感的财力证明"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#外星人笔记本",
+            "views": "10亿次+",
+            "sentiment_score": "90分（富哥专属/信仰灯）"
+          }
+        ]
+      },
+      {
+        "brand_name": "败家之眼 (ROG)",
+        "brand_sov": "硬核电竞信仰图腾",
+        "search_index": "ROG枪神/幻系列热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "ROG枪神游戏本/主板",
+            "sales_volume": "爆款常断货",
+            "gmv": "数十亿",
+            "core_value": "华硕旗下的顶级电竞子品牌，买ROG就是为了那个大眼睛Logo带来的极度心理虚荣"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#ROG败家之眼",
+            "views": "12亿次+",
+            "sentiment_score": "94分（信仰充值/顶级性能）"
+          }
+        ]
+      },
+      {
+        "brand_name": "索尼PS5",
+        "brand_sov": "主机玩家的终极骄傲",
+        "search_index": "PS5独占/原神启动热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "PlayStation 5 主机",
+            "sales_volume": "全球出货破五千万台",
+            "gmv": "数百亿",
+            "core_value": "手握无数独占大作，摆在客厅电视旁是成年男性最后一块不容侵犯的娱乐自留地"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#PS5",
+            "views": "20亿次+",
+            "sentiment_score": "96分（索尼大法好/主机婆罗门）"
+          }
+        ]
+      },
+      {
+        "brand_name": "徕卡 (Leica)",
+        "brand_sov": "影像界的爱马仕",
+        "search_index": "徕卡Q3/徕卡色彩热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "Leica Q3 / M11",
+            "sales_volume": "一机难求且溢价",
+            "gmv": "数十亿",
+            "core_value": "可乐标与迷人的德味色彩，挂在脖子上就是“我很有钱且懂摄影”的终极文艺滤镜"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#徕卡毒德大学",
+            "views": "8亿次+",
+            "sentiment_score": "95分（可乐标/奢侈品相机）"
+          }
+        ]
+      },
+      {
+        "brand_name": "巴黎世家 (Balenciaga)",
+        "brand_sov": "审丑与亚文化顶奢",
+        "search_index": "老爹鞋/巴黎世家大秀热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "Triple S 老爹鞋/沙漏包",
+            "sales_volume": "爆款引发全网跟风",
+            "gmv": "百亿级",
+            "core_value": "用极其夸张甚至怪异的破坏感设计，精准狙击想要与众不同、极度叛逆的富二代与潮人"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#巴黎世家",
+            "views": "15亿次+",
+            "sentiment_score": "85分（怪诞/看不懂但大受震撼）"
+          }
+        ]
+      },
+      {
+        "brand_name": "迪奥 (Dior)",
+        "brand_sov": "精致优雅的名媛名片",
+        "search_index": "迪奥戴妃包/口红热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "Lady Dior (戴妃包)",
+            "sales_volume": "常年热销",
+            "gmv": "数百亿",
+            "core_value": "无可挑剔的女性优雅代名词，送礼或自用都能极大满足女性的精致优越感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#LadyDior",
+            "views": "25亿次+",
+            "sentiment_score": "90分（财阀千金/优雅）"
+          }
+        ]
+      },
+      {
+        "brand_name": "宝格丽 (Bvlgari)",
+        "brand_sov": "珠宝首饰的社交硬通货",
+        "search_index": "宝格丽弹簧项链/蛇骨热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "B.zero1 弹簧项链/戒指",
+            "sales_volume": "高端馈赠首选",
+            "gmv": "百亿级",
+            "core_value": "极具辨识度的工业风与蛇形设计，露出脖子或手腕的那一刻，社交身价瞬间拉满"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#宝格丽",
+            "views": "18亿次+",
+            "sentiment_score": "92分（富贵迷人眼/经典）"
+          }
+        ]
+      },
+      {
+        "brand_name": "祖玛珑 (Jo Malone)",
+        "brand_sov": "沙龙香水启蒙与送礼标配",
+        "search_index": "蓝风铃/英国梨与小苍兰热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "英国梨与小苍兰香水",
+            "sales_volume": "常年霸榜香水销量",
+            "gmv": "数十亿",
+            "core_value": "虽然被称为“五步散”，但其极简的英伦包装与清新的气味，是小白送礼绝对不会出错的高级名片"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#祖玛珑",
+            "views": "12亿次+",
+            "sentiment_score": "88分（入门沙龙香/高级感）"
+          }
+        ]
+      },
+      {
+        "brand_name": "蒂普提克 (Diptyque)",
+        "brand_sov": "高阶沙龙香的品味象征",
+        "search_index": "蒂普提克檀道/无花果热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "檀道 / 杜桑香水",
+            "sales_volume": "中产最爱",
+            "gmv": "数十亿",
+            "core_value": "极具艺术感的椭圆标签与木质香调，相比祖玛珑更显小众与高阶，文艺青年的最爱"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Diptyque",
+            "views": "8亿次+",
+            "sentiment_score": "92分（清冷/文艺逼格）"
+          }
+        ]
+      },
+      {
+        "brand_name": "钟薛高",
+        "brand_sov": "雪糕界的爱马仕(争议)",
+        "search_index": "钟薛高刺客/雪糕热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "瓦片雪糕/厄瓜多尔粉钻",
+            "sales_volume": "曾爆卖后因争议下滑",
+            "gmv": "十亿级",
+            "core_value": "六十六块钱一支的雪糕，吃它曾经是小红书上最时髦的财力打卡，社交货币的极端案例"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#雪糕刺客",
+            "views": "20亿次+",
+            "sentiment_score": "80分（智商税/曾经的辉煌）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "motivation": "文化根脉 与 国潮觉醒",
+    "section": "身份叙事",
+    "prescription": "在逆全球化背景下，通过消费本土传统文化元素，寻找民族认同，重塑文化自信与东方审美",
+    "market_context": {
+      "category": "国潮服饰/非遗文创/中式茶饮",
+      "market_size": "新国潮消费经济规模突破万亿",
+      "cagr": "16.5%",
+      "capital_index": "4"
+    },
+    "brands": [
+      {
+        "brand_name": "马面裙 (织造司/十三余等)",
+        "brand_sov": "国风服饰破圈绝对顶流",
+        "search_index": "马面裙日常穿搭/非遗热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "各类织金/妆花马面裙",
+            "sales_volume": "单品月销数十万条",
+            "gmv": "百亿级赛道",
+            "core_value": "从汉服圈彻底走向日常通勤，穿马面裙去卢浮宫/大英博物馆打卡，成为最硬核的文化输出与自信"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#马面裙日常穿搭",
+            "views": "50亿次+",
+            "sentiment_score": "96分（端庄大气/文化自信）"
+          }
+        ]
+      },
+      {
+        "brand_name": "安踏 / 李宁 (国产品牌)",
+        "brand_sov": "运动国潮化先锋",
+        "search_index": "李宁悟道/安踏KT系列热搜",
+        "premium_rate": "中等（高端线冲击溢价）",
+        "products": [
+          {
+            "product_name": "中国李宁系列/安踏国旗款",
+            "sales_volume": "营收全面超越部分国际大牌",
+            "gmv": "数百亿营收",
+            "core_value": "新疆棉事件后全面承接民族情绪，用过硬的技术（䨻/氮科技）结合中国元素，重塑国产运动骄傲"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#支持国货",
+            "views": "60亿次+",
+            "sentiment_score": "90分（国货之光/崛起）"
+          }
+        ]
+      },
+      {
+        "brand_name": "茶颜悦色 (CHALI)",
+        "brand_sov": "新中式茶饮先行者",
+        "search_index": "茶颜悦色幽兰拿铁热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "幽兰拿铁/声声乌龙",
+            "sales_volume": "门店排队神话",
+            "gmv": "数十亿",
+            "core_value": "用折扇、名画、诗词包装奶茶，将东方古典美学彻底融入年轻人的日常高频消费"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#茶颜悦色",
+            "views": "25亿次+",
+            "sentiment_score": "92分（国风茶饮/长沙名片）"
+          }
+        ]
+      },
+      {
+        "brand_name": "黑神话：悟空 (游科)",
+        "brand_sov": "中国首款3A大作，文化现象级",
+        "search_index": "黑神话悟空通关/文化输出热搜",
+        "premium_rate": "中等（买断制标准定价）",
+        "products": [
+          {
+            "product_name": "《黑神话：悟空》",
+            "sales_volume": "发售即破千万套",
+            "gmv": "单月数十亿营收",
+            "core_value": "用世界级的工业水准讲述最纯正的中国神话，承载了全村人（中国玩家）对文化输出的终极渴望"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#黑神话悟空",
+            "views": "200亿次+",
+            "sentiment_score": "98分（天命人/热血沸腾）"
+          }
+        ]
+      },
+      {
+        "brand_name": "观夏 / 闻献",
+        "brand_sov": "东方香学高端叙事",
+        "search_index": "东方植物香/观夏桂花热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "昆仑煮雪/颐和金桂",
+            "sales_volume": "常年断货",
+            "gmv": "数亿级",
+            "core_value": "用中国人的集体嗅觉记忆（桂花、松柏）对抗西方沙龙香的统治，重塑东方嗅觉审美的高级感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#东方香水",
+            "views": "10亿次+",
+            "sentiment_score": "94分（高级感/中式意境）"
+          }
+        ]
+      },
+      {
+        "brand_name": "故宫文创 / 博物院周边",
+        "brand_sov": "官方文化大IP",
+        "search_index": "故宫日历/文创雪糕热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "故宫口红/千里江山图周边",
+            "sales_volume": "节假日爆卖",
+            "gmv": "十亿级",
+            "core_value": "让高高在上的文物“活起来”、“萌起来”，将六百年的厚重历史转化为桌面的小确幸"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#故宫文创",
+            "views": "15亿次+",
+            "sentiment_score": "95分（国之重器/萌）"
+          }
+        ]
+      },
+      {
+        "brand_name": "花西子 (Florasis)",
+        "brand_sov": "东方彩妆代名词",
+        "search_index": "花西子同心锁口红/雕花热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "同心锁口红/百鸟朝凤彩妆盘",
+            "sales_volume": "曾霸榜彩妆TOP1",
+            "gmv": "数十亿",
+            "core_value": "将微雕工艺与苗族/傣族非遗元素融入彩妆，极尽东方雕花之美"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#东方彩妆",
+            "views": "20亿次+",
+            "sentiment_score": "85分（雕花绝美/争议后复苏）"
+          }
+        ]
+      },
+      {
+        "brand_name": "白象 (Baixiang)",
+        "brand_sov": "国民良心企业叙事",
+        "search_index": "白象汤好喝/良心国货热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "汤好喝老母鸡汤面",
+            "sales_volume": "野性消费大爆发",
+            "gmv": "近百亿",
+            "core_value": "拒绝外资收购、招收残疾人，通过道德高地与扎实的产品，引发网友的“野性消费”式报恩"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#白象方便面",
+            "views": "30亿次+",
+            "sentiment_score": "96分（国货之光/良心企业）"
+          }
+        ]
+      },
+      {
+        "brand_name": "比亚迪 / 华为 (汽车)",
+        "brand_sov": "中国智造汽车工业崛起",
+        "search_index": "比亚迪仰望/华为问界热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "仰望U8 / 问界M9",
+            "sales_volume": "高端车型月销过万",
+            "gmv": "数千亿级",
+            "core_value": "打破BBA的技术封锁与品牌光环，开中国的高端车、用鸿蒙智驾成为最具底气的民族自豪感体现"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#中国智造",
+            "views": "100亿次+",
+            "sentiment_score": "94分（遥遥领先/争气）"
+          }
+        ]
+      },
+      {
+        "brand_name": "十三余",
+        "brand_sov": "少女汉服龙头",
+        "search_index": "小豆蔻儿/十三余汉服热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "王者荣耀/各种IP联名汉服",
+            "sales_volume": "爆款单品上万件",
+            "gmv": "数亿级",
+            "core_value": "将传统形制进行现代化、少女化改良，降低汉服穿着门槛，让国风成为日常穿搭选项"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#汉服日常化",
+            "views": "12亿次+",
+            "sentiment_score": "90分（仙气飘飘/少女心）"
+          }
+        ]
+      },
+      {
+        "brand_name": "蜜雪冰城",
+        "brand_sov": "下沉市场的国民雪王",
+        "search_index": "雪王主题曲/蜜雪冰城热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "柠檬水/冰淇淋",
+            "sales_volume": "一年卖出几十亿杯",
+            "gmv": "破两百亿",
+            "core_value": "“你不嫌我穷，我不嫌你土”，凭借无敌的性价比与洗脑主题曲，成为最具烟火气的国民图腾"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#雪王出街",
+            "views": "50亿次+",
+            "sentiment_score": "92分（国民饮料/街溜子）"
+          }
+        ]
+      },
+      {
+        "brand_name": "鸿星尔克 (ERKE)",
+        "brand_sov": "野性消费的爱国图腾",
+        "search_index": "鸿星尔克捐款/野性消费热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "运动鞋/服饰",
+            "sales_volume": "曾一夜清空库存",
+            "gmv": "数十亿",
+            "core_value": "企业破产边缘仍巨额捐款，彻底点燃网民的爱国情怀，买它就是为了支持中国人的善良"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#鸿星尔克野性消费",
+            "views": "30亿次+",
+            "sentiment_score": "95分（良心国货/踩纫机冒烟）"
+          }
+        ]
+      },
+      {
+        "brand_name": "蜂花",
+        "brand_sov": "老牌国货的逆袭",
+        "search_index": "蜂花捡箱子/护发素热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "蜂花护发素/洗发水",
+            "sales_volume": "直播间频频卖断货",
+            "gmv": "数十亿",
+            "core_value": "极其朴素的包装与极低的价格，靠着“商战捡纸箱”的自黑营销，唤醒了国人对老牌的保护欲"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#蜂花护发素",
+            "views": "25亿次+",
+            "sentiment_score": "92分（便宜大碗/国货商战）"
+          }
+        ]
+      },
+      {
+        "brand_name": "汇源",
+        "brand_sov": "国民果汁的眼泪",
+        "search_index": "汇源果汁破产/野性消费热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "100%纯果汁",
+            "sales_volume": "春节及直播间爆卖",
+            "gmv": "数十亿",
+            "core_value": "从小喝到大的纯果汁，面临破产危机时引发集体怀旧与抢购，是国民饭桌上的记忆根脉"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#汇源果汁",
+            "views": "15亿次+",
+            "sentiment_score": "94分（真果汁/国民记忆）"
+          }
+        ]
+      },
+      {
+        "brand_name": "大白兔",
+        "brand_sov": "国民奶糖的国潮跨界",
+        "search_index": "大白兔奶糖/联名唇膏热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "经典奶糖/跨界香水服饰",
+            "sales_volume": "逢年过节必备",
+            "gmv": "数十亿",
+            "core_value": "将童年那颗奶糖的IP无限放大，跨界美妆、服饰，完美演绎了老字号的年轻化与国潮觉醒"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#大白兔奶糖",
+            "views": "12亿次+",
+            "sentiment_score": "90分（童年味道/跨界狂魔）"
+          }
+        ]
+      },
+      {
+        "brand_name": "百雀羚",
+        "brand_sov": "草本护肤的东方传奇",
+        "search_index": "百雀羚草本/一镜到底广告热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "草本水嫩系列/帧颜霜",
+            "sales_volume": "双十一常年国货前列",
+            "gmv": "百亿级",
+            "core_value": "奶奶辈的国货护肤品，凭借神级长图广告与扎实的草本抗老技术，重新赢回年轻女性的梳妆台"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#百雀羚",
+            "views": "18亿次+",
+            "sentiment_score": "88分（东方草本/老牌焕新）"
+          }
+        ]
+      },
+      {
+        "brand_name": "毛戈平 (MAOGEPING)",
+        "brand_sov": "东方光影美学的魔法",
+        "search_index": "毛戈平改妆/高光膏热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "双色高光膏/粉膏",
+            "sales_volume": "爆款月销数万件",
+            "gmv": "数十亿",
+            "core_value": "以创始人的“换头级”化妆术为背书，主打最适合亚洲人骨相的东方光影化妆法"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#毛戈平改妆",
+            "views": "20亿次+",
+            "sentiment_score": "92分（换头术/国货之光）"
+          }
+        ]
+      },
+      {
+        "brand_name": "颐和园文创",
+        "brand_sov": "皇家园林的美学输出",
+        "search_index": "颐和园口红/百鸟朝凤热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "文创口红/手帐",
+            "sales_volume": "节假日爆单",
+            "gmv": "数亿",
+            "core_value": "紧随故宫其后，将皇家园林的精致图腾印在口红与折扇上，国潮文创的又一巅峰"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#颐和园文创",
+            "views": "8亿次+",
+            "sentiment_score": "90分（皇家气派/绝美）"
+          }
+        ]
+      },
+      {
+        "brand_name": "河南博物院",
+        "brand_sov": "中原文化的盲盒狂欢",
+        "search_index": "考古盲盒/唐宫夜宴热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "考古盲盒",
+            "sales_volume": "上架即秒空",
+            "gmv": "数亿",
+            "core_value": "用一把洛阳铲挖出青铜器盲盒，将枯燥的考古变成了极具参与感与历史厚重感的国潮游戏"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#考古盲盒",
+            "views": "10亿次+",
+            "sentiment_score": "96分（沉浸式考古/硬核文创）"
+          }
+        ]
+      },
+      {
+        "brand_name": "墨茉点心局",
+        "brand_sov": "新中式烘焙的排队神话",
+        "search_index": "麻薯/中式点心热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "现烤麻薯/泡芙",
+            "sales_volume": "门店曾大排长龙",
+            "gmv": "十亿级",
+            "core_value": "用国风狮头Logo和现烤的东方味道，将传统中式糕点包装成年轻人最爱打卡的国潮下午茶"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#墨茉点心局",
+            "views": "6亿次+",
+            "sentiment_score": "85分（国风烘焙/好吃）"
+          }
+        ]
+      },
+      {
+        "brand_name": "虎头局渣打饼行",
+        "brand_sov": "国潮点心先行者",
+        "search_index": "虎头局麻薯/倒闭热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "拉丝麻薯/老虎卷",
+            "sales_volume": "曾是资本宠儿(现收缩)",
+            "gmv": "数亿",
+            "core_value": "极其吸睛的赛博国潮霓虹灯招牌，一度是新中式烘焙最耀眼的社交货币"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#虎头局",
+            "views": "5亿次+",
+            "sentiment_score": "82分（赛博国风/昙花一现）"
+          }
+        ]
+      },
+      {
+        "brand_name": "泸州老窖",
+        "brand_sov": "浓香鼻祖的国潮进阶",
+        "search_index": "国窖1573/泸州老窖香水热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "国窖1573/桃花醉",
+            "sales_volume": "年销数百亿",
+            "gmv": "百亿级",
+            "core_value": "不仅是老一辈的酒桌硬通货，更通过跨界香水、雪糕，试图将中国白酒文化植入Z世代的基因"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#泸州老窖",
+            "views": "15亿次+",
+            "sentiment_score": "88分（浓香鼻祖/跨界会玩）"
+          }
+        ]
+      },
+      {
+        "brand_name": "飞跃 (Feiyue)",
+        "brand_sov": "少林武僧与法国街头的潮鞋",
+        "search_index": "飞跃小白鞋/帆布鞋热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "经典红蓝条小白鞋",
+            "sales_volume": "月销数十万双",
+            "gmv": "数十亿",
+            "core_value": "几十块钱的武术鞋，在海外被炒成复古潮牌后反哺国内，成为年轻人脚上最廉价的国潮图腾"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#飞跃鞋",
+            "views": "10亿次+",
+            "sentiment_score": "86分（复古百搭/踩屎感）"
+          }
+        ]
+      },
+      {
+        "brand_name": "回力 (Warrior)",
+        "brand_sov": "国民球鞋的百年复兴",
+        "search_index": "回力帆布鞋/国潮小白鞋热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "经典WB-1帆布鞋",
+            "sales_volume": "年销数千万双",
+            "gmv": "数十亿",
+            "core_value": "一代人的青春记忆，用极高的性价比和不断迭代的联名款，死死守住了国潮帆布鞋的底线"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#回力",
+            "views": "15亿次+",
+            "sentiment_score": "88分（永远的经典/便宜好穿）"
+          }
+        ]
+      }
+    ]
+  }
+]

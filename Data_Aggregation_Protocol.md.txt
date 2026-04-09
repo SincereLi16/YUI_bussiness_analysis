@@ -1,0 +1,85 @@
+# 2026 青年消费数据分析与聚合协议 (V5.2 - 前端对齐版)
+
+## 1. 任务目标
+作为高级商业分析 Agent，你需要对 279 个品牌数据进行深度聚合。在 V5.1 的基础上，为适配前端可视化组件（如 Next.js），需要对数据结构进行纯净化、板块映射与引用路径化处理，确保数据可以直接作为前端 Props 使用。
+
+---
+
+## 2. 统计维度与实体关联逻辑 (Metrics & Linkage)
+
+### A. 动机热力分布 (需关联品牌)
+* **计算**：统计每个 `motivation` 出现的频次。
+* **关联**：在每个动机下，提取该类目内 **GMV 最高** 或 **声量(SOV)最大** 的前 3 个品牌，并标注其核心产品。
+* **V5.2 升级**：将原本合并的 `strength` 拆分为纯数值的 `value` 和单位/类型的 `metric` 字段；为每个代表性品牌增加 `data_source` 字段，指向其原始的数据源（即原始数据所在的大类/JSON文件名）。
+
+### B. 智性博弈指数 (需关联极端案例)
+* **计算**：计算每个 `motivation` 的平均溢价率。
+* **关联**：在每个类别下，标注出该组内的 **[溢价王]**（Premium Rate 最高）和 **[平权王]**（Premium Rate 最低/负值最大）的品牌名。
+
+### C. 社交资产效能 (需关联热门话题)
+* **计算**：`Total(声量) / Total(GMV)`。
+* **关联**：提取该动机类别下，互动量（Views）最高的 2 个具体话题 `#Hashtag`。
+
+### D. 逻辑迁徙网络 (需关联跨界标杆)
+* **计算**：统计 `cross_motivations` 的共现频次。
+* **关联**：对于关联度最强的组合，举出 1-2 个同时具备这两个动机标签的代表性品牌。
+
+### E. 归属板块映射 (V5.2 新增)
+* **规则**：在每个包含 `motivation` 或 `key`（表示动机）的对象中，必须增加一个 `section` 字段，映射该动机在原始数据中归属的大类（例如：'智性决策'、'情绪补偿'、'身份叙事'等）。
+
+---
+
+## 3. 输出格式规范 (analysis_summary.json)
+
+```json
+{
+  "summary_metadata": {
+    "total_brands_scanned": 279,
+    "analysis_date": "2026-04-09",
+    "version": "V5.2"
+  },
+  "motivation_density": [
+    {
+      "key": "动机名称",
+      "section": "归属板块名称",
+      "brand_count": 0,
+      "percentage": "0%",
+      "top_representatives": [
+        { 
+          "brand": "品牌名", 
+          "product": "核心单品", 
+          "value": 100.5, 
+          "metric": "GMV(亿)", 
+          "data_source": "原始数据源名" 
+        }
+      ]
+    }
+  ],
+  "premium_benchmarking": [
+    {
+      "motivation": "动机名称",
+      "section": "归属板块名称",
+      "avg_premium_rate": "+XX%",
+      "anchors": {
+        "premium_leader": "溢价最高的品牌",
+        "value_disruptor": "平权最狠的品牌"
+      }
+    }
+  ],
+  "social_efficiency": [
+    {
+      "motivation": "动机名称",
+      "section": "归属板块名称",
+      "efficiency_score": 0.0,
+      "hot_topics": ["#话题1", "#话题2"]
+    }
+  ],
+  "cross_logic_matrix": [
+    {
+      "logic_pair": ["动机A", "动机B"],
+      "correlation": "极强",
+      "bridge_brands": ["品牌1", "品牌2"]
+    }
+  ]
+}
+```

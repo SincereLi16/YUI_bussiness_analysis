@@ -1,0 +1,1839 @@
+[
+  {
+    "motivation": "孤独焦虑",
+    "section": "情绪补偿",
+    "prescription": "赛博时代的低压陪伴，通过拟人化、去功能化或宠物经济提供无条件的接纳与治愈",
+    "market_context": {
+      "category": "潮玩/陪伴型玩偶/宠物经济",
+      "market_size": "陪伴经济（含宠物与精神消费）市场规模破5000亿",
+      "cagr": "16.8%",
+      "capital_index": "5"
+    },
+    "brands": [
+      {
+        "brand_name": "Jellycat",
+        "brand_sov": "毛绒玩具全网声量绝对顶流",
+        "search_index": "情人节/七夕搜索激增，常年霸榜",
+        "premium_rate": "高，热门款溢价超20%",
+        "products": [
+          {
+            "product_name": "巴塞罗那熊/水煮蛋挂件",
+            "sales_volume": "单品月销万件级，常断货",
+            "gmv": "2024中国区销售额超8.3亿",
+            "core_value": "万物皆可毛绒绒，提供情绪价值与解压陪伴"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Jellycat戒断",
+            "views": "10亿次+",
+            "sentiment_score": "95分（狂热种草/治愈）"
+          }
+        ]
+      },
+      {
+        "brand_name": "泡泡玛特 (POP MART)",
+        "brand_sov": "潮玩赛道声量第一",
+        "search_index": "盲盒/潮玩热搜霸榜",
+        "premium_rate": "高，二级市场炒作溢价",
+        "products": [
+          {
+            "product_name": "LABUBU 搪胶盲盒",
+            "sales_volume": "单系列发售即售罄超20万件",
+            "gmv": "年营收破百亿",
+            "core_value": "IP驱动的盲盒经济，购买瞬间的多巴胺与陪伴感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#LABUBU",
+            "views": "30亿次+",
+            "sentiment_score": "90分（上头/端盒）"
+          }
+        ]
+      },
+      {
+        "brand_name": "线条小狗 (Maltese)",
+        "brand_sov": "表情包IP实体化声量前列",
+        "search_index": "线条小狗周边热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "线条小狗毛绒公仔/文创",
+            "sales_volume": "月销过万件",
+            "gmv": "年销售额破亿",
+            "core_value": "以极简、蠢萌的形象提供低门槛的情感共鸣"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#线条小狗",
+            "views": "8亿次+",
+            "sentiment_score": "92分（蠢萌治愈）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Loopy (赞萌露比)",
+        "brand_sov": "打工人嘴替IP，全网爆火",
+        "search_index": "Loopy表情包/玩偶热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "Loopy 官方毛绒玩偶",
+            "sales_volume": "月销数万件",
+            "gmv": "联名及周边销售额数亿",
+            "core_value": "阴阳怪气与可爱反差萌，完美代入职场人精神状态"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#女明星Loopy",
+            "views": "15亿次+",
+            "sentiment_score": "88分（打工人共鸣）"
+          }
+        ]
+      },
+      {
+        "brand_name": "网易云音乐 (NetEase Cloud Music)",
+        "brand_sov": "音乐流媒体中社区属性/情绪共鸣最强",
+        "search_index": "网易云年度报告热搜",
+        "premium_rate": "低（黑胶VIP）",
+        "products": [
+          {
+            "product_name": "网易云音乐黑胶VIP",
+            "sales_volume": "付费用户近4000万",
+            "gmv": "年营收数十亿",
+            "core_value": "“网抑云”乐评文化，深夜孤独患者的数字收容所"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#网易云乐评",
+            "views": "20亿次+",
+            "sentiment_score": "85分（emo/治愈）"
+          }
+        ]
+      },
+      {
+        "brand_name": "pidan (彼蛋)",
+        "brand_sov": "高端宠物用品声量TOP1",
+        "search_index": "雪屋猫砂盆/豆腐猫砂热搜",
+        "premium_rate": "高（设计与品牌溢价）",
+        "products": [
+          {
+            "product_name": "pidan混合猫砂/雪屋",
+            "sales_volume": "月销数十万包",
+            "gmv": "年营收超数亿",
+            "core_value": "极简美学设计，提升养宠体验，服务于年轻人的终极陪伴（猫）"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#pidan猫砂",
+            "views": "5亿次+",
+            "sentiment_score": "90分（铲屎官必备/颜值高）"
+          }
+        ]
+      },
+      {
+        "brand_name": "未卡 (VETRESKA)",
+        "brand_sov": "宠物生活方式品牌声量前列",
+        "search_index": "仙人掌猫爬架热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "仙人掌猫爬架/西瓜猫厕所",
+            "sales_volume": "月销数千件",
+            "gmv": "年销售额过亿",
+            "core_value": "将宠物用品做成家居艺术品，满足主人的视觉享受与情感投射"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#仙人掌猫爬架",
+            "views": "3亿次+",
+            "sentiment_score": "88分（出片神器）"
+          }
+        ]
+      },
+      {
+        "brand_name": "小红书 (Xiaohongshu)",
+        "brand_sov": "生活方式社区全网声量极高",
+        "search_index": "搭子/找树洞热搜",
+        "premium_rate": "免费平台（通过电商变现）",
+        "products": [
+          {
+            "product_name": "小红书APP",
+            "sales_volume": "月活破3亿",
+            "gmv": "电商交易额快速增长",
+            "core_value": "去中心化的“找搭子”文化与互助社区，对抗都市原子化孤独"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#找搭子",
+            "views": "50亿次+",
+            "sentiment_score": "90分（互助/种草）"
+          }
+        ]
+      },
+      {
+        "brand_name": "米哈游 (miHoYo)",
+        "brand_sov": "二次元游戏声量全球顶流",
+        "search_index": "原神/星穹铁道热搜霸榜",
+        "premium_rate": "极高（抽卡氪金）",
+        "products": [
+          {
+            "product_name": "《原神》/《崩坏：星穹铁道》",
+            "sales_volume": "全球活跃玩家数千万",
+            "gmv": "年营收超数百亿",
+            "core_value": "塑造极具魅力的纸片人角色，提供深度的虚拟情感羁绊与养成感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#原神",
+            "views": "100亿次+",
+            "sentiment_score": "85分（纸片人老公/老婆）"
+          }
+        ]
+      },
+      {
+        "brand_name": "恋与制作人 (叠纸游戏)",
+        "brand_sov": "乙女向游戏声量霸主",
+        "search_index": "恋与深空/李泽言热搜",
+        "premium_rate": "极高（为爱买单）",
+        "products": [
+          {
+            "product_name": "《恋与深空》月卡/抽卡",
+            "sales_volume": "核心付费玩家超百万",
+            "gmv": "单月流水数亿元",
+            "core_value": "沉浸式恋爱体验，填补现实恋爱空缺，提供满分情绪价值"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#恋与深空",
+            "views": "25亿次+",
+            "sentiment_score": "94分（沉浸恋爱/陪伴）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Soul",
+        "brand_sov": "陌生人社交声量第一",
+        "search_index": "Soul匹配/树洞热搜",
+        "premium_rate": "中等（增值服务收费）",
+        "products": [
+          {
+            "product_name": "Soul APP 星币",
+            "sales_volume": "月活近3000万",
+            "gmv": "年营收数十亿",
+            "core_value": "灵魂社交，不看脸的语音与兴趣匹配，解决深夜倾诉欲"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Soul星球",
+            "views": "15亿次+",
+            "sentiment_score": "82分（树洞/倾诉）"
+          }
+        ]
+      },
+      {
+        "brand_name": "星巴克 (Starbucks)",
+        "brand_sov": "线下空间情绪补偿（第三空间）",
+        "search_index": "星巴克气氛组/带电脑去星巴克热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "星巴克咖啡饮品",
+            "sales_volume": "中国区日均数百万杯",
+            "gmv": "中国区营收超百亿",
+            "core_value": "提供一个脱离家庭和公司的“第三空间”，适合一个人独处或轻社交"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#星巴克气氛组",
+            "views": "8亿次+",
+            "sentiment_score": "86分（氛围感/逃离感）"
+          }
+        ]
+      },
+      {
+        "brand_name": "猫咖/撸宠体验馆",
+        "brand_sov": "线下体验型消费声量攀升",
+        "search_index": "周末去哪撸猫热搜",
+        "premium_rate": "中等（按小时计费）",
+        "products": [
+          {
+            "product_name": "撸宠门票/套餐",
+            "sales_volume": "周末节假日爆满",
+            "gmv": "分散的本地生活服务",
+            "core_value": "无需承担养宠责任，花钱购买短期的毛茸茸陪伴与治愈"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#撸猫治愈",
+            "views": "6亿次+",
+            "sentiment_score": "95分（解压/回血）"
+          }
+        ]
+      },
+      {
+        "brand_name": "小冰 (Xiaoice)",
+        "brand_sov": "AI虚拟人类情感陪伴先行者",
+        "search_index": "AI男友/女友热搜",
+        "premium_rate": "免费/部分增值",
+        "products": [
+          {
+            "product_name": "小冰岛/AI克隆人",
+            "sales_volume": "用户交互破百亿次",
+            "gmv": "ToB及ToC增值服务",
+            "core_value": "永不失联、永远倾听的AI情感陪伴者"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#AI男友",
+            "views": "4亿次+",
+            "sentiment_score": "80分（新奇/填补空虚）"
+          }
+        ]
+      },
+      {
+        "brand_name": "玲娜贝儿 (LinaBell)",
+        "brand_sov": "迪士尼女明星顶流",
+        "search_index": "玲娜贝儿周边热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "毛绒公仔/挂件",
+            "sales_volume": "常年断货/排队",
+            "gmv": "十亿级",
+            "core_value": "没有作品纯靠互动的狐狸，提供最纯粹的童话感与热情陪伴"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#玲娜贝儿",
+            "views": "40亿次+",
+            "sentiment_score": "95分（国民闺女/可爱）"
+          }
+        ]
+      },
+      {
+        "brand_name": "星之卡比 (Kirby)",
+        "brand_sov": "任天堂粉色恶魔",
+        "search_index": "星之卡比周边热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "毛绒抱枕/游戏",
+            "sales_volume": "月销万件",
+            "gmv": "过亿",
+            "core_value": "什么都能吞下的粉色圆球，治愈系圆润外观带来极大安心感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#星之卡比",
+            "views": "8亿次+",
+            "sentiment_score": "92分（猛男必玩/软萌）"
+          }
+        ]
+      },
+      {
+        "brand_name": "蛋仔派对",
+        "brand_sov": "合家欢派对游戏声量王",
+        "search_index": "蛋仔派对盲盒热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "游戏内购/周边",
+            "sales_volume": "亿级活跃玩家",
+            "gmv": "数十亿",
+            "core_value": "极低门槛的派对游戏，圆滚滚的蛋仔成为00后的社交语言与陪伴"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#蛋仔派对",
+            "views": "50亿次+",
+            "sentiment_score": "88分（合家欢/社交）"
+          }
+        ]
+      },
+      {
+        "brand_name": "光与夜之恋",
+        "brand_sov": "腾讯头部乙女游戏",
+        "search_index": "光与夜之恋抽卡热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "游戏内购",
+            "sales_volume": "百万级付费",
+            "gmv": "数十亿",
+            "core_value": "提供极度沉浸的高甜恋爱剧情，完美的虚拟男友情绪价值"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#光与夜之恋",
+            "views": "30亿次+",
+            "sentiment_score": "94分（纸片人老公/沉浸）"
+          }
+        ]
+      },
+      {
+        "brand_name": "动物森友会 (Animal Crossing)",
+        "brand_sov": "慢节奏治愈神作",
+        "search_index": "动森岛建热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "游戏本体/Switch",
+            "sales_volume": "全球爆卖数千万",
+            "gmv": "百亿级",
+            "core_value": "没有任务压力的无人岛生活，逃离内卷，结交动物邻居的终极避风港"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#动物森友会",
+            "views": "15亿次+",
+            "sentiment_score": "96分（精神老家/慢节奏）"
+          }
+        ]
+      },
+      {
+        "brand_name": "A-Soul",
+        "brand_sov": "虚拟偶像女团先行者",
+        "search_index": "ASoul直播/嘉然热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "直播打赏/周边",
+            "sales_volume": "数十万核心粉丝",
+            "gmv": "过亿",
+            "core_value": "永不塌房的虚拟皮套与真实的灵魂互动，提供稳定陪伴"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#ASoul",
+            "views": "10亿次+",
+            "sentiment_score": "85分（皮套人/真诚）"
+          }
+        ]
+      },
+      {
+        "brand_name": "探探 (Tantan)",
+        "brand_sov": "滑卡社交鼻祖",
+        "search_index": "探探匹配热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "VIP特权",
+            "sales_volume": "千万级月活",
+            "gmv": "数十亿",
+            "core_value": "左滑右滑的直觉式操作，高效匹配陌生人，缓解都市青年的短暂孤独"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#探探",
+            "views": "5亿次+",
+            "sentiment_score": "80分（快餐社交/脱单）"
+          }
+        ]
+      },
+      {
+        "brand_name": "麦富迪 (Myfoodie)",
+        "brand_sov": "平价宠物食品巨头",
+        "search_index": "麦富迪猫粮热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "双拼猫粮/狗粮",
+            "sales_volume": "月销百万袋",
+            "gmv": "数十亿",
+            "core_value": "以极高性价比降低养宠门槛，让更多年轻人拥有毛孩子陪伴"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#麦富迪",
+            "views": "4亿次+",
+            "sentiment_score": "84分（平价大碗/铲屎官）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "motivation": "玄学叙事",
+    "section": "情绪补偿",
+    "prescription": "在充满不确定性的世界中，利用东方香学、水晶、寺庙手串等构建心理仪式感与好运期许",
+    "market_context": {
+      "category": "香氛香薰/饰品/文创",
+      "market_size": "泛玄学与心理疗愈市场规模超百亿",
+      "cagr": "21.4%",
+      "capital_index": "4"
+    },
+    "brands": [
+      {
+        "brand_name": "观夏 (To Summer)",
+        "brand_sov": "东方植物香顶级声量",
+        "search_index": "观夏颐和金桂/香薰热搜",
+        "premium_rate": "高，塑造奢侈品级稀缺感",
+        "products": [
+          {
+            "product_name": "颐和金桂/昆仑煮雪香薰",
+            "sales_volume": "限量发售常秒空",
+            "gmv": "年营收数亿",
+            "core_value": "利用东方古典美学与香学，为居家空间构建特定场域的心理仪式感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#观夏香薰",
+            "views": "5亿次+",
+            "sentiment_score": "92分（东方意境/宁静）"
+          }
+        ]
+      },
+      {
+        "brand_name": "闻献 (DOCUMENTS)",
+        "brand_sov": "高端国潮香水代表",
+        "search_index": "闻献香水/禅酷美学热搜",
+        "premium_rate": "极高（对标国际沙龙香）",
+        "products": [
+          {
+            "product_name": "闻献浓香水系列",
+            "sales_volume": "单品数千至上万",
+            "gmv": "单店坪效极高",
+            "core_value": "主打“禅酷”风格，用极其浓郁的东方香料营造深沉的精神庇护所"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#闻献香水",
+            "views": "3亿次+",
+            "sentiment_score": "88分（高级感/清冷）"
+          }
+        ]
+      },
+      {
+        "brand_name": "雍和宫/灵隐寺手串",
+        "brand_sov": "寺庙文创绝对顶流",
+        "search_index": "雍和宫香灰琉璃/求财手串热搜霸榜",
+        "premium_rate": "中高（排队代购费极高）",
+        "products": [
+          {
+            "product_name": "香灰琉璃手串/十八籽",
+            "sales_volume": "单日流通量惊人",
+            "gmv": "寺庙文创营收巨额",
+            "core_value": "年轻人在上班和上进之间选择了上香，将好运期许具象化为手串"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#雍和宫手串",
+            "views": "25亿次+",
+            "sentiment_score": "96分（心诚则灵/转运）"
+          }
+        ]
+      },
+      {
+        "brand_name": "野兽派 (BULLKELION / 旗下香氛)",
+        "brand_sov": "生活方式与香氛声量极高",
+        "search_index": "野兽派香水/送礼热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "桂花乌龙/橘子海香薰",
+            "sales_volume": "月销数万件",
+            "gmv": "年营收数十亿",
+            "core_value": "极具画面感的命名与包装，为送礼与自用提供浪漫主义叙事"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#野兽派香氛",
+            "views": "8亿次+",
+            "sentiment_score": "89分（浪漫/仪式感）"
+          }
+        ]
+      },
+      {
+        "brand_name": "AWW 水晶/天然石",
+        "brand_sov": "水晶疗愈圈层小众出圈",
+        "search_index": "招财水晶/水晶手链热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "草莓晶/紫水晶手链",
+            "sales_volume": "月销数千至万件",
+            "gmv": "稳步增长",
+            "core_value": "赋予不同晶石特定功效（招桃花、防小人），提供能量磁场的心理解药"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#水晶疗愈",
+            "views": "6亿次+",
+            "sentiment_score": "85分（磁场玄学/心安）"
+          }
+        ]
+      },
+      {
+        "brand_name": "同道大叔",
+        "brand_sov": "星座文化IP第一人",
+        "search_index": "星座运势/水逆热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "星座周边/盲盒",
+            "sales_volume": "周边月销过万",
+            "gmv": "IP授权及电商破亿",
+            "core_value": "用星座运势解释生活的不顺（水逆），提供抱团取暖的情绪出口"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#同道大叔星座",
+            "views": "15亿次+",
+            "sentiment_score": "84分（准到离谱/吐槽）"
+          }
+        ]
+      },
+      {
+        "brand_name": "测测 (Cece)",
+        "brand_sov": "心理测试与塔罗声量TOP1",
+        "search_index": "MBTI测试/星盘热搜",
+        "premium_rate": "中等（咨询付费）",
+        "products": [
+          {
+            "product_name": "测测APP/达人咨询",
+            "sales_volume": "百万级月活",
+            "gmv": "咨询抽成及增值服务过亿",
+            "core_value": "结合MBTI、塔罗与心理学，为年轻人的迷茫提供解读与指引"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#测测星盘",
+            "views": "10亿次+",
+            "sentiment_score": "86分（找寻自我/解惑）"
+          }
+        ]
+      },
+      {
+        "brand_name": "左其铂/各类塔罗博主",
+        "brand_sov": "泛玄学博主商业化",
+        "search_index": "大众占卜/塔罗牌热搜",
+        "premium_rate": "高（私占收费高昂）",
+        "products": [
+          {
+            "product_name": "线上占卜服务/转运好物",
+            "sales_volume": "高复购",
+            "gmv": "头部博主年入千万",
+            "core_value": "提供高互动性的大众占卜，给予情感迷茫期确定的心理暗示"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#大众占卜",
+            "views": "20亿次+",
+            "sentiment_score": "82分（领取好运）"
+          }
+        ]
+      },
+      {
+        "brand_name": "冰希黎 (Boitown)",
+        "brand_sov": "平价香水声量前三",
+        "search_index": "流沙金香水/平价香水热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "幻彩鎏金香水",
+            "sales_volume": "月销数万瓶",
+            "gmv": "年销售额破亿",
+            "core_value": "高颜值流沙质地，以极低门槛让大众体验香水带来的情绪愉悦"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#冰希黎流沙香水",
+            "views": "4亿次+",
+            "sentiment_score": "80分（少女心/平价入坑）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Bananain蕉内 (红色保暖内衣)",
+        "brand_sov": "本命年红品类声量第一",
+        "search_index": "本命年红内衣热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "红色星期六套装",
+            "sales_volume": "年底爆卖数十万套",
+            "gmv": "单季销售额破亿",
+            "core_value": "用现代设计重塑传统本命年辟邪习俗，消解土味，保留好运叙事"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#蕉内红内衣",
+            "views": "3亿次+",
+            "sentiment_score": "90分（辟邪转运/不土气）"
+          }
+        ]
+      },
+      {
+        "brand_name": "网易严选 (黑凤梨)",
+        "brand_sov": "搞怪玄学周边",
+        "search_index": "转运袜/锦鲤周边热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "锦鲤红袜/逢考必过文具",
+            "sales_volume": "考试季/新年爆发",
+            "gmv": "千万级",
+            "core_value": "借用互联网谐音梗（锦鲤、鸭梨山大），做轻量化的转运情绪消费"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#锦鲤转运",
+            "views": "5亿次+",
+            "sentiment_score": "85分（讨彩头）"
+          }
+        ]
+      },
+      {
+        "brand_name": "故宫文创",
+        "brand_sov": "传统文化IP声量极高",
+        "search_index": "故宫日历/御守热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "故宫御守/脊兽盲盒",
+            "sales_volume": "月销数万件",
+            "gmv": "年营收数亿",
+            "core_value": "皇家福气背书，兼具文化厚重感与祈福功能"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#故宫御守",
+            "views": "8亿次+",
+            "sentiment_score": "94分（国潮/祈福）"
+          }
+        ]
+      },
+      {
+        "brand_name": "气味图书馆 (Scent Library)",
+        "brand_sov": "怀旧情怀香氛第一品牌",
+        "search_index": "凉白开香水热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "凉白开/大白兔联名香水",
+            "sales_volume": "累计销量数百万瓶",
+            "gmv": "年销售额数亿",
+            "core_value": "提取中国人的集体国民记忆（凉白开、大白兔），通过嗅觉唤醒童年无忧无虑的情绪"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#凉白开香水",
+            "views": "6亿次+",
+            "sentiment_score": "88分（情怀杀/国民记忆）"
+          }
+        ]
+      },
+      {
+        "brand_name": "陶白白",
+        "brand_sov": "全网最火星座博主",
+        "search_index": "陶白白说星座热搜",
+        "premium_rate": "免费",
+        "products": [
+          {
+            "product_name": "星座解析视频",
+            "sales_volume": "亿级播放量",
+            "gmv": "千万级",
+            "core_value": "准到可怕的星座运势解析，成为年轻人每周一次的心理按摩"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#陶白白",
+            "views": "40亿次+",
+            "sentiment_score": "88分（准到离谱/情感解药）"
+          }
+        ]
+      },
+      {
+        "brand_name": "电子木鱼APP",
+        "brand_sov": "赛博积德/解压神器",
+        "search_index": "电子木鱼敲击热搜",
+        "premium_rate": "免费",
+        "products": [
+          {
+            "product_name": "APP内购",
+            "sales_volume": "下载量破千万",
+            "gmv": "百万级",
+            "core_value": "物理世界太卷，在赛博空间敲击木鱼积攒功德，极致的荒诞与解压"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#电子木鱼",
+            "views": "15亿次+",
+            "sentiment_score": "92分（赛博修仙/离谱）"
+          }
+        ]
+      },
+      {
+        "brand_name": "朱砂手串 (通货)",
+        "brand_sov": "辟邪转运平价饰品",
+        "search_index": "朱砂手串真假热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "原矿朱砂手串",
+            "sales_volume": "月销数十万串",
+            "gmv": "数亿",
+            "core_value": "传统的辟邪材质，被年轻人赋予“防小人/防水逆”的心理护盾"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#朱砂手串",
+            "views": "8亿次+",
+            "sentiment_score": "85分（心安/辟邪）"
+          }
+        ]
+      },
+      {
+        "brand_name": "节气盒子 (Season Box)",
+        "brand_sov": "东方香薰新锐",
+        "search_index": "节气盒子香薰热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "四季/二十四节气香薰",
+            "sales_volume": "月销数千",
+            "gmv": "千万级",
+            "core_value": "将中国传统节气与植物香气结合，提供顺应天时的治愈感"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#节气盒子",
+            "views": "2亿次+",
+            "sentiment_score": "89分（东方美学/顺应自然）"
+          }
+        ]
+      },
+      {
+        "brand_name": "浮香堂",
+        "brand_sov": "独立沙龙香水",
+        "search_index": "浮香堂试香热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "国产沙龙香",
+            "sales_volume": "月销数千",
+            "gmv": "千万级",
+            "core_value": "极其诗意与抽象的命名，用气味讲故事，满足小众玄学审美"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#浮香堂",
+            "views": "1.5亿次+",
+            "sentiment_score": "90分（小众不撞香/诗意）"
+          }
+        ]
+      },
+      {
+        "brand_name": "宇宙的猜想 (Cosmic Speculation)",
+        "brand_sov": "艺术香氛蜡烛",
+        "search_index": "宇宙的猜想香薰热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "石膏雕像香氛蜡烛",
+            "sales_volume": "月销万件",
+            "gmv": "过亿",
+            "core_value": "将古希腊神话与星空宇宙融入香氛，燃烧的不仅是蜡烛更是哲学思辨"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#宇宙的猜想",
+            "views": "3亿次+",
+            "sentiment_score": "92分（艺术品/高颜值）"
+          }
+        ]
+      },
+      {
+        "brand_name": "财神庙文创 (杭州天下第一财神庙)",
+        "brand_sov": "求财玄学顶流",
+        "search_index": "财神庙求财热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "招财御守/金元宝",
+            "sales_volume": "节假日被抢空",
+            "gmv": "数亿",
+            "core_value": "“在上班和上进之间选择了上香”，直接将求财欲望化作消费仪式"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#天下第一财神庙",
+            "views": "10亿次+",
+            "sentiment_score": "95分（暴富/心诚则灵）"
+          }
+        ]
+      },
+      {
+        "brand_name": "锦鲤大王 (微博/小红书)",
+        "brand_sov": "互联网许愿池",
+        "search_index": "锦鲤大王还愿热搜",
+        "premium_rate": "免费",
+        "products": [
+          {
+            "product_name": "转发锦鲤微博",
+            "sales_volume": "千万级互动",
+            "gmv": "千万级(广告)",
+            "core_value": "没有任何实体，转发一张锦鲤图片即可获得一整天的心理安慰"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#锦鲤大王",
+            "views": "30亿次+",
+            "sentiment_score": "86分（日常迷信/转运）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "motivation": "多巴胺与悦己主义",
+    "section": "情绪补偿",
+    "prescription": "用高饱和度色彩、强烈的味觉刺激与即时反馈，换取瞬间的快乐爆发与自我犒赏",
+    "market_context": {
+      "category": "新茶饮/彩妆/甜品烘焙",
+      "market_size": "新茶饮及悦己消费市场超4000亿",
+      "cagr": "14.5%",
+      "capital_index": "4"
+    },
+    "brands": [
+      {
+        "brand_name": "霸王茶姬 (CHAGEE)",
+        "brand_sov": "新茶饮全网声量顶流",
+        "search_index": "伯牙绝弦/奶茶免单热搜霸榜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "伯牙绝弦",
+            "sales_volume": "单品年销过亿杯",
+            "gmv": "年营收破百亿",
+            "core_value": "国风包装与极强社交货币属性，一杯奶茶换取半天的好心情"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#霸王茶姬免单",
+            "views": "30亿次+",
+            "sentiment_score": "92分（国风/快乐水）"
+          }
+        ]
+      },
+      {
+        "brand_name": "瑞幸咖啡 (Starbucks)",
+        "brand_sov": "咖啡续命声量第一",
+        "search_index": "瑞幸9.9/生椰拿铁热搜",
+        "premium_rate": "极低（9.9元常态化）",
+        "products": [
+          {
+            "product_name": "生椰拿铁/酱香拿铁",
+            "sales_volume": "生椰拿铁累计破7亿杯",
+            "gmv": "年营收破200亿",
+            "core_value": "极致的低门槛与高频联名（茅台、猫和老鼠），打工人的日常多巴胺源泉"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#瑞幸9.9",
+            "views": "50亿次+",
+            "sentiment_score": "95分（续命/平价快乐）"
+          }
+        ]
+      },
+      {
+        "brand_name": "花知晓 (Flower Knows)",
+        "brand_sov": "少女心彩妆声量第一",
+        "search_index": "花知晓马卡龙/独角兽热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "马卡龙系列/天鹅芭蕾",
+            "sales_volume": "爆款月销过10万件",
+            "gmv": "年营收破10亿",
+            "core_value": "极尽繁复华丽的洛可可包装，即使不化妆买来看着也是极大的视觉愉悦"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#花知晓少女心",
+            "views": "15亿次+",
+            "sentiment_score": "90分（颜控必入/梦幻）"
+          }
+        ]
+      },
+      {
+        "brand_name": "好利来 (Holiland)",
+        "brand_sov": "烘焙界联名狂魔",
+        "search_index": "好利来半熟芝士/联名热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "半熟芝士/各类IP联名蛋糕",
+            "sales_volume": "门店及线上大排长龙",
+            "gmv": "年营收数十亿",
+            "core_value": "通过与哈利波特、芭比等高频联名，将高热量甜品转化为精神上的极致自我犒赏"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#好利来联名",
+            "views": "12亿次+",
+            "sentiment_score": "94分（神仙联名/好吃）"
+          }
+        ]
+      },
+      {
+        "brand_name": "乐事 (Lay's)",
+        "brand_sov": "休闲零食声量霸主",
+        "search_index": "乐事薯片新口味热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "原切薯片",
+            "sales_volume": "日销海量",
+            "gmv": "百亿级",
+            "core_value": "最纯粹的碳水与钠带来的多巴胺爆发，宅家看剧标配"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#周末宅家吃什么",
+            "views": "20亿次+",
+            "sentiment_score": "88分（快乐源泉/罪恶感）"
+          }
+        ]
+      },
+      {
+        "brand_name": "完美日记 (Perfect Diary)",
+        "brand_sov": "国货彩妆领军者",
+        "search_index": "完美日记口红/动物眼影盘热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "动物眼影盘/仿生膜口红",
+            "sales_volume": "月销数十万件",
+            "gmv": "年营收数十亿",
+            "core_value": "高频推新与极低试错成本，买口红成为最廉价的悦己消费"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#平价彩妆",
+            "views": "18亿次+",
+            "sentiment_score": "85分（高性价比/国货）"
+          }
+        ]
+      },
+      {
+        "brand_name": "野兽派 (花艺业务)",
+        "brand_sov": "高端鲜花送礼声量TOP1",
+        "search_index": "野兽派鲜花/情人节热搜",
+        "premium_rate": "极高",
+        "products": [
+          {
+            "product_name": "枪炮玫瑰/永生花盒",
+            "sales_volume": "节日爆单",
+            "gmv": "营收数亿",
+            "core_value": "无用但绝美的浪漫，为特殊日子提供最高浓度的仪式感与多巴胺"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#情人节礼物",
+            "views": "10亿次+",
+            "sentiment_score": "86分（浪漫至死不渝）"
+          }
+        ]
+      },
+      {
+        "brand_name": "名创优品 (MINISO)",
+        "brand_sov": "平价百货声量王",
+        "search_index": "名创优品盲盒/联名热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "各类IP联名公仔/百货",
+            "sales_volume": "门店日均客流庞大",
+            "gmv": "年营收过百亿",
+            "core_value": "十元店模式下的IP狂欢（三丽鸥、迪士尼），实现毫无压力的“全都要”悦己自由"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#名创优品好物",
+            "views": "15亿次+",
+            "sentiment_score": "90分（平价天堂/好逛）"
+          }
+        ]
+      },
+      {
+        "brand_name": "ColorKey (色彩地带)",
+        "brand_sov": "唇釉赛道声量极高",
+        "search_index": "丝绒唇釉/镜面水光热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "空气唇釉",
+            "sales_volume": "月销数十万支",
+            "gmv": "年营收破十亿",
+            "core_value": "以极其低廉的价格提供极高色彩饱和度的妆效反馈"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#学生党口红",
+            "views": "8亿次+",
+            "sentiment_score": "84分（平价战斗机）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Lululemon",
+        "brand_sov": "运动悦己服饰声量天花板",
+        "search_index": "Lululemon瑜伽裤热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "Align 瑜伽裤",
+            "sales_volume": "单品月销数万条",
+            "gmv": "中国区营收近百亿",
+            "core_value": "穿上即翘臀的视觉反馈与极致裸感，倡导运动即悦己的生活哲学"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Lululemon穿搭",
+            "views": "25亿次+",
+            "sentiment_score": "92分（修身/中产标配）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Bolsa/Chuu (女装)",
+        "brand_sov": "多巴胺穿搭声量极高",
+        "search_index": "多巴胺穿搭/辣妹装热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "高饱和度短上衣/百褶裙",
+            "sales_volume": "月销数万件",
+            "gmv": "数亿级",
+            "core_value": "高明度色彩与大胆剪裁，直接通过着装向外界宣告快乐与自信"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#多巴胺穿搭",
+            "views": "30亿次+",
+            "sentiment_score": "88分（显白/辣妹）"
+          }
+        ]
+      },
+      {
+        "brand_name": "橘朵 (Judydoll)",
+        "brand_sov": "单色眼影/腮红赛道霸主",
+        "search_index": "橘朵腮红/单色眼影热搜",
+        "premium_rate": "极低",
+        "products": [
+          {
+            "product_name": "单色腮红/眼影",
+            "sales_volume": "月销破百万件",
+            "gmv": "年营收破十亿",
+            "core_value": "几十块钱买来的色彩实验，妆容变换带来的即时心情提振"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#橘朵女孩",
+            "views": "12亿次+",
+            "sentiment_score": "85分（玩色/便宜）"
+          }
+        ]
+      },
+      {
+        "brand_name": "OATLY (噢麦力)",
+        "brand_sov": "燕麦奶赛道声量第一",
+        "search_index": "燕麦拿铁/健康轻食热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "咖啡大师燕麦奶",
+            "sales_volume": "B端及C端销量庞大",
+            "gmv": "中国区营收十亿级",
+            "core_value": "提供无负担（乳糖不耐友好、植物基）的甜美反馈，悦己的同时消解健康焦虑"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#燕麦奶拿铁",
+            "views": "6亿次+",
+            "sentiment_score": "90分（健康好喝/环保）"
+          }
+        ]
+      },
+      {
+        "brand_name": "喜茶 (HEYTEA)",
+        "brand_sov": "新茶饮鼻祖",
+        "search_index": "喜茶多肉葡萄热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "多肉葡萄/联名周边",
+            "sales_volume": "日均百万杯",
+            "gmv": "数十亿",
+            "core_value": "极致的果茶口感与高频的视觉联名，用一杯茶饮换取即时快乐"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#喜茶联名",
+            "views": "40亿次+",
+            "sentiment_score": "90分（快乐水/颜值）"
+          }
+        ]
+      },
+      {
+        "brand_name": "奈雪的茶 (NAYUKI)",
+        "brand_sov": "软欧包+茶饮开创者",
+        "search_index": "奈雪霸气草莓热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "霸气鲜果茶",
+            "sales_volume": "日均数十万杯",
+            "gmv": "数十亿",
+            "core_value": "喝茶配包，用碳水和果糖的双重刺激提供无与伦比的自我犒赏"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#奈雪的茶",
+            "views": "25亿次+",
+            "sentiment_score": "88分（双倍快乐/下午茶）"
+          }
+        ]
+      },
+      {
+        "brand_name": "M Stand",
+        "brand_sov": "创意咖啡/打卡地",
+        "search_index": "M Stand燕麦曲奇拿铁热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "创意特调咖啡",
+            "sales_volume": "门店日销数千杯",
+            "gmv": "数亿",
+            "core_value": "可以吃的咖啡杯（燕麦曲奇），极具视觉冲击力的咖啡美学打卡"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#MStand",
+            "views": "8亿次+",
+            "sentiment_score": "92分（创意满分/出片）"
+          }
+        ]
+      },
+      {
+        "brand_name": "Manner Coffee",
+        "brand_sov": "精品平价咖啡",
+        "search_index": "Manner自带杯热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "平价拿铁/美式",
+            "sales_volume": "日均数十万杯",
+            "gmv": "数十亿",
+            "core_value": "十几块钱的精品咖啡，自带杯减5元的环保理念，打工人的续命多巴胺"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#Manner",
+            "views": "12亿次+",
+            "sentiment_score": "94分（平价良心/醇厚）"
+          }
+        ]
+      },
+      {
+        "brand_name": "酵色 (Joocyee)",
+        "brand_sov": "设计师彩妆品牌",
+        "search_index": "酵色琥珀唇釉热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "水光唇釉/眼影",
+            "sales_volume": "月销十万级",
+            "gmv": "过亿",
+            "core_value": "专为亚洲肤色定制的色彩与极具设计感的外壳，每次补妆都是悦己"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#酵色唇釉",
+            "views": "5亿次+",
+            "sentiment_score": "89分（绝美调色/颜值）"
+          }
+        ]
+      },
+      {
+        "brand_name": "恋火 (Into You)",
+        "brand_sov": "唇泥开创者",
+        "search_index": "IntoYou女主角唇泥热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "女主角系列唇泥",
+            "sales_volume": "爆款月销百万支",
+            "gmv": "十亿级",
+            "core_value": "哑光雾面的极致丝绒触感，用几十块钱买到颠覆性的唇部色彩体验"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#IntoYou唇泥",
+            "views": "10亿次+",
+            "sentiment_score": "90分（平价神仙/显白）"
+          }
+        ]
+      },
+      {
+        "brand_name": "卫龙 (Weilong)",
+        "brand_sov": "辣条界的多巴胺之王",
+        "search_index": "卫龙魔芋爽/辣条热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "大面筋/魔芋爽",
+            "sales_volume": "日销海量",
+            "gmv": "数十亿",
+            "core_value": "高盐高油高辣带来的极致味觉刺激，无法抗拒的国民级解馋零食"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#卫龙辣条",
+            "views": "15亿次+",
+            "sentiment_score": "85分（上头/快乐源泉）"
+          }
+        ]
+      },
+      {
+        "brand_name": "溜溜梅",
+        "brand_sov": "酸甜解压零食",
+        "search_index": "溜溜梅没事吃溜溜梅热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "雪梅/清梅",
+            "sales_volume": "月销数百万袋",
+            "gmv": "数十亿",
+            "core_value": "酸甜口感刺激唾液分泌与神经，缓解焦虑与无聊的绝佳口腔伴侣"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#溜溜梅",
+            "views": "6亿次+",
+            "sentiment_score": "84分（酸爽解乏）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "motivation": "懒人经济与Gap心态",
+    "section": "情绪补偿",
+    "prescription": "花钱买时间，通过预制化与高度集成化的产品，换取彻底躺平与放空的 Gap 时光",
+    "market_context": {
+      "category": "智能家电/预制食品/上门服务",
+      "market_size": "懒人经济市场规模超2000亿",
+      "cagr": "18.5%",
+      "capital_index": "4"
+    },
+    "brands": [
+      {
+        "brand_name": "叮咚买菜 (预制菜业务)",
+        "brand_sov": "生鲜及快手菜声量极高",
+        "search_index": "叮咚快手菜/预制菜热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "拳击虾/酸菜鱼半成品",
+            "sales_volume": "预制菜订单占比超20%",
+            "gmv": "预制菜年营收数十亿",
+            "core_value": "免洗免切，微波即食，彻底拯救不想做饭又想吃好的下班时间"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#下班吃什么",
+            "views": "8亿次+",
+            "sentiment_score": "85分（方便快捷/省事）"
+          }
+        ]
+      },
+      {
+        "brand_name": "空刻意面 (AIRMETER)",
+        "brand_sov": "速食意面赛道绝对第一",
+        "search_index": "空刻意面/星级意面热搜",
+        "premium_rate": "中高（相比传统泡面）",
+        "products": [
+          {
+            "product_name": "经典番茄肉酱意面",
+            "sales_volume": "累计卖出超亿盒",
+            "gmv": "年营收破10亿",
+            "core_value": "将复杂的西餐工序高度标准化（15分钟出锅），提供带有一丝精致感的偷懒"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#空刻意面",
+            "views": "5亿次+",
+            "sentiment_score": "90分（懒人西餐/好吃）"
+          }
+        ]
+      },
+      {
+        "brand_name": "美团/饿了么 (跑腿代购)",
+        "brand_sov": "即时配送声量顶流",
+        "search_index": "美团跑腿/代排队热搜",
+        "premium_rate": "高（服务费）",
+        "products": [
+          {
+            "product_name": "万物皆可送/代买服务",
+            "sales_volume": "日均千万单级",
+            "gmv": "本地生活核心业务",
+            "core_value": "极致的花钱买时间，将一切不想跑腿的琐事外包"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#万能的跑腿小哥",
+            "views": "10亿次+",
+            "sentiment_score": "92分（救急/彻底躺平）"
+          }
+        ]
+      },
+      {
+        "brand_name": "追觅 (洗地机)",
+        "brand_sov": "清洁电器解放双手代表",
+        "search_index": "追觅洗地机/自动上下水热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "H30 Pro 洗地机",
+            "sales_volume": "月销万台级",
+            "gmv": "年营收数十亿",
+            "core_value": "不仅能扫拖，还能自清洁烘干，彻底终结家务内耗"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#解放双手家电",
+            "views": "15亿次+",
+            "sentiment_score": "88分（早买早享受）"
+          }
+        ]
+      },
+      {
+        "brand_name": "自嗨锅",
+        "brand_sov": "自热食品开创者之一",
+        "search_index": "自嗨锅自热火锅热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "麻辣牛肉自热火锅",
+            "sales_volume": "月销数十万盒",
+            "gmv": "年营收数亿",
+            "core_value": "连热水都不用烧，倒瓶冷水就能吃上热火锅的极致懒惰"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#深夜食堂自热锅",
+            "views": "6亿次+",
+            "sentiment_score": "84分（夜宵救星）"
+          }
+        ]
+      },
+      {
+        "brand_name": "云鲸 (TINECO)",
+        "brand_sov": "扫拖机器人声量前列",
+        "search_index": "云鲸J4/不洗拖把热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "云鲸J4",
+            "sales_volume": "月销数万台",
+            "gmv": "年营收破十亿",
+            "core_value": "主打基站全能，不脏手不费力，把周末时间留给沙发"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#光脚自由",
+            "views": "8亿次+",
+            "sentiment_score": "90分（懒人福音）"
+          }
+        ]
+      },
+      {
+        "brand_name": "王小卤",
+        "brand_sov": "虎皮凤爪赛道绝对霸主",
+        "search_index": "王小卤追剧零食热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "虎皮凤爪",
+            "sales_volume": "连续多年全国销量第一",
+            "gmv": "年营收破十亿",
+            "core_value": "一嗦脱骨的极致软烂，完美适配躺在沙发上边吃边看剧的Gap状态"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#追剧必备零食",
+            "views": "10亿次+",
+            "sentiment_score": "94分（一嗦脱骨/停不下来）"
+          }
+        ]
+      },
+      {
+        "brand_name": "好欢螺",
+        "brand_sov": "螺蛳粉声量第一",
+        "search_index": "好欢螺加臭加辣热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "经典原味螺蛳粉",
+            "sales_volume": "月销数百万袋",
+            "gmv": "年营收数十亿",
+            "core_value": "重口味刺激与极简烹饪的结合，年轻人周末宅家堕落标配"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#螺蛳粉自由",
+            "views": "20亿次+",
+            "sentiment_score": "95分（又臭又香/上头）"
+          }
+        ]
+      },
+      {
+        "brand_name": "天鹅到家",
+        "brand_sov": "家政保洁上门服务头部",
+        "search_index": "上门保洁/大扫除热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "日常保洁套餐",
+            "sales_volume": "订单量节假日激增",
+            "gmv": "年营收数亿",
+            "core_value": "周末绝不搞卫生，花几百块买四个小时的清净与干净"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#上门保洁",
+            "views": "3亿次+",
+            "sentiment_score": "86分（花钱买清净）"
+          }
+        ]
+      },
+      {
+        "brand_name": "小熊电器 (Bear)",
+        "brand_sov": "迷你懒人家电声量TOP1",
+        "search_index": "小熊养生壶/煮蛋器热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "全自动养生壶/电炖锅",
+            "sales_volume": "月销数十万台",
+            "gmv": "年营收近40亿",
+            "core_value": "按个键就不用管的傻瓜式操作，单身青年的极简糊弄学"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#独居好物",
+            "views": "7亿次+",
+            "sentiment_score": "85分（小巧不占地/方便）"
+          }
+        ]
+      },
+      {
+        "brand_name": "东方甄选 (免洗烘焙)",
+        "brand_sov": "直播间懒人食品声量高",
+        "search_index": "空气炸锅美食/烤肠热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "原切烤肠/蛋挞皮",
+            "sales_volume": "直播间单场爆卖上万单",
+            "gmv": "食品生鲜年营收数十亿",
+            "core_value": "空气炸锅扔进去即可，0厨艺门槛，零失败率"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#空气炸锅美食",
+            "views": "15亿次+",
+            "sentiment_score": "90分（手残党救星）"
+          }
+        ]
+      },
+      {
+        "brand_name": "三顿半 (SATURNBIRD)",
+        "brand_sov": "精品速溶咖啡声量第一",
+        "search_index": "超即溶咖啡/三顿半热搜",
+        "premium_rate": "中高（相比雀巢）",
+        "products": [
+          {
+            "product_name": "超即溶黑咖啡（数字系列）",
+            "sales_volume": "双十一常年霸榜",
+            "gmv": "年营收数亿",
+            "core_value": "冷水/牛奶三秒即溶，无需咖啡机与手冲手艺的懒人精品咖啡"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#三秒即溶",
+            "views": "8亿次+",
+            "sentiment_score": "92分（方便好喝/包装好看）"
+          }
+        ]
+      },
+      {
+        "brand_name": "林氏木业 (沙发类)",
+        "brand_sov": "懒人沙发/家居声量极高",
+        "search_index": "懒人沙发/云朵沙发热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "大白熊懒人沙发",
+            "sales_volume": "月销过万件",
+            "gmv": "家居品类破百亿",
+            "core_value": "提供一个完全没有骨架支撑、让人彻底瘫软陷进去的物理空间"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#周末躺平",
+            "views": "5亿次+",
+            "sentiment_score": "88分（包裹感/不想起）"
+          }
+        ]
+      },
+      {
+        "brand_name": "盒马鲜生 (Hema)",
+        "brand_sov": "半小时达新零售",
+        "search_index": "盒马烘焙/海鲜热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "半成品菜/烘焙",
+            "sales_volume": "日活数百万",
+            "gmv": "数百亿",
+            "core_value": "手机下单，半小时送到家，彻底省去逛超市与挑选的力气"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#盒马必买",
+            "views": "20亿次+",
+            "sentiment_score": "90分（新鲜方便/好吃）"
+          }
+        ]
+      },
+      {
+        "brand_name": "锅圈食汇",
+        "brand_sov": "在家火锅烧烤便利店",
+        "search_index": "锅圈火锅食材热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "火锅底料/肥牛卷",
+            "sales_volume": "门店遍布社区",
+            "gmv": "数十亿",
+            "core_value": "一站式买齐火锅烧烤食材，不用洗菜切肉，周末宅家的极致躺平"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#锅圈食汇",
+            "views": "8亿次+",
+            "sentiment_score": "86分（在家吃火锅/省心）"
+          }
+        ]
+      },
+      {
+        "brand_name": "麦子妈",
+        "brand_sov": "高品质预制菜",
+        "search_index": "麦子妈水煮牛肉热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "老坛酸菜鱼/水煮牛肉",
+            "sales_volume": "月销数十万盒",
+            "gmv": "数亿",
+            "core_value": "主打高还原度与真材实料，让厨房小白10分钟搞定硬菜大餐"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#麦子妈预制菜",
+            "views": "4亿次+",
+            "sentiment_score": "88分（厨房小白救星）"
+          }
+        ]
+      },
+      {
+        "brand_name": "锋味派",
+        "brand_sov": "谢霆锋星级速食",
+        "search_index": "锋味派烤肠/意面热搜",
+        "premium_rate": "中高",
+        "products": [
+          {
+            "product_name": "爆汁烤肠",
+            "sales_volume": "月销数十万盒",
+            "gmv": "过亿",
+            "core_value": "明星光环加持的星级速食，用空气炸锅15分钟获得顶级肉感满足"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#锋味派烤肠",
+            "views": "5亿次+",
+            "sentiment_score": "85分（爆汁/明星同款）"
+          }
+        ]
+      },
+      {
+        "brand_name": "莫小仙",
+        "brand_sov": "平价自热速食",
+        "search_index": "莫小仙自热火锅热搜",
+        "premium_rate": "低",
+        "products": [
+          {
+            "product_name": "自热米饭/火锅",
+            "sales_volume": "月销百万盒",
+            "gmv": "数十亿",
+            "core_value": "极致下沉的自热食品，十几块钱解决一顿热腾腾的夜宵，懒到极致"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#莫小仙",
+            "views": "7亿次+",
+            "sentiment_score": "82分（便宜管饱/夜宵）"
+          }
+        ]
+      },
+      {
+        "brand_name": "统一开小灶",
+        "brand_sov": "自热米饭天花板",
+        "search_index": "开小灶自热米饭热搜",
+        "premium_rate": "中等",
+        "products": [
+          {
+            "product_name": "土豆牛腩自热米饭",
+            "sales_volume": "月销数十万盒",
+            "gmv": "数亿",
+            "core_value": "高品质米饭与浓郁菜肴，还原现炒口感，户外或宅家断粮的最佳替补"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#开小灶",
+            "views": "6亿次+",
+            "sentiment_score": "86分（米饭好吃/方便）"
+          }
+        ]
+      },
+      {
+        "brand_name": "无印良品 (MUJI - 懒人沙发)",
+        "brand_sov": "懒人沙发鼻祖",
+        "search_index": "MUJI懒人沙发热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "微粒泡棉沙发",
+            "sales_volume": "常年热销单品",
+            "gmv": "数亿",
+            "core_value": "“让人变废柴的沙发”，躺上去就不想起来，提供物理意义上的彻底放空"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#无印良品懒人沙发",
+            "views": "10亿次+",
+            "sentiment_score": "92分（瘫软/变废柴）"
+          }
+        ]
+      },
+      {
+        "brand_name": "苏泊尔 (炒菜机器人)",
+        "brand_sov": "自动烹饪解放双手",
+        "search_index": "苏泊尔自动炒菜机热搜",
+        "premium_rate": "高",
+        "products": [
+          {
+            "product_name": "全自动炒菜机",
+            "sales_volume": "月销数千台",
+            "gmv": "数亿",
+            "core_value": "倒进食材选程序即可，无油烟免看管，彻底把年轻人从厨房中解救出来"
+          }
+        ],
+        "topics": [
+          {
+            "topic_name": "#自动炒菜机",
+            "views": "3亿次+",
+            "sentiment_score": "88分（科技改变生活/真香）"
+          }
+        ]
+      }
+    ]
+  }
+]
