@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  --color-parchment: #f5f4ed;
+  --color-ivory: #faf9f5;
+  --color-near-black: #141413;
+  --color-terracotta: #c96442;
+  --color-coral: #d97757;
+  --color-error: #b53333;
+  --color-focus: #3898ec;
+  --color-warm-sand: #e8e6dc;
+  --color-dark-surface: #30302e;
+  
+  --color-charcoal-warm: #4d4c48;
+  --color-olive-gray: #5e5d59;
+  --color-stone-gray: #87867f;
+  --color-dark-warm: #3d3d3a;
+  --color-warm-silver: #b0aea5;
+  
+  --color-border-cream: #f0eee6;
+  --color-border-warm: #e8e6dc;
+  
+  --color-ring-warm: #d1cfc5;
+  --color-ring-subtle: #dedc01;
+  --color-ring-deep: #c2c0b6;
+
+  --font-serif: Georgia, ui-serif, serif;
+  --font-sans: Arial, ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  --shadow-ring: 0px 0px 0px 1px var(--color-ring-warm);
+  --shadow-ring-subtle: 0px 0px 0px 1px var(--color-ring-subtle);
+  --shadow-ring-deep: 0px 0px 0px 1px var(--color-ring-deep);
+  --shadow-whisper: 0px 4px 24px rgba(0, 0, 0, 0.05);
+  --shadow-inset-ring: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15);
+}
+
+@layer base {
+  body {
+    @apply bg-parchment text-near-black font-sans antialiased;
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-medium tracking-normal text-near-black;
+  }
+
+  h1 { @apply text-6xl leading-[1.10]; }
+  h2 { @apply text-[52px] leading-[1.20]; }
+  h3 { @apply text-4xl leading-[1.30]; }
+  h4 { @apply text-3xl leading-[1.10]; }
+  h5 { @apply text-2xl leading-[1.20]; }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
