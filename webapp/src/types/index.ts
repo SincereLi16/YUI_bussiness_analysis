@@ -1,6 +1,8 @@
 export interface Brand {
   id: string;
-  brand_name: string;
+  brand_name: string; // usually "中文名 (EnglishName)"
+  brand_name_zh: string; // extracted Chinese name
+  brand_name_en: string; // extracted English name
   core_product: string;
   gmv_val: number;
   premium_rate: number;
@@ -9,6 +11,22 @@ export interface Brand {
   prescription: string;
   topics: { topic_name: string; views: string; sentiment_score: string }[];
   cross_motivations: string[];
+  
+  // Analytics Fields
+  cagr_val: number;
+  cagr_str: string;
+  brand_gmv: string;
+  brand_cagr: string;
+  data_source?: string;
+  capital_index: number;
+  brand_sov: string;
+  search_index: string;
+  
+  // New Enhanced Fields
+  brand_growth: number;
+  loyalty: number;
+  null_reason?: string;
+  role?: '巨头' | '黑马' | '卷王' | 'NPC';
 }
 
 export interface MotivationDensity {

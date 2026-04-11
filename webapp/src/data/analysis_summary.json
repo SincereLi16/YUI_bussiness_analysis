@@ -9,7 +9,7 @@
     {
       "key": "Lifestyle 与 户外叙事",
       "section": "身份叙事",
-      "brand_count": 26,
+      "brand_count": 27,
       "percentage": "9.3%",
       "top_representatives": [
         {
@@ -29,7 +29,7 @@
         {
           "brand": "美利达 (Merida)",
           "product": "斯特拉/挑战者系列",
-          "value": 659.0,
+          "value": 659,
           "metric": "GMV(亿)",
           "data_source": "身份叙事"
         }
@@ -38,7 +38,7 @@
     {
       "key": "社交货币 与 优越感",
       "section": "身份叙事",
-      "brand_count": 25,
+      "brand_count": 26,
       "percentage": "9.0%",
       "top_representatives": [
         {
@@ -67,20 +67,20 @@
     {
       "key": "圈层共振 与 小众DIY",
       "section": "身份叙事",
-      "brand_count": 25,
+      "brand_count": 24,
       "percentage": "9.0%",
       "top_representatives": [
         {
           "brand": "万代 (Bandai) / 胶佬",
           "product": "MG/RG/PG系列高达模型",
-          "value": 40.0,
+          "value": 40,
           "metric": "GMV(亿)",
           "data_source": "身份叙事"
         },
         {
           "brand": "谷子/痛包文化 (Goods)",
           "product": "徽章(吧唧)/立牌/色纸/痛包",
-          "value": 1000.0,
+          "value": 1000,
           "metric": "GMV(亿)",
           "data_source": "身份叙事"
         },
@@ -96,7 +96,7 @@
     {
       "key": "文化根脉 与 国潮觉醒",
       "section": "身份叙事",
-      "brand_count": 24,
+      "brand_count": 23,
       "percentage": "8.6%",
       "top_representatives": [
         {
@@ -125,7 +125,7 @@
     {
       "key": "孤独焦虑",
       "section": "情绪补偿",
-      "brand_count": 22,
+      "brand_count": 20,
       "percentage": "7.9%",
       "top_representatives": [
         {
@@ -183,20 +183,20 @@
     {
       "key": "玄学叙事",
       "section": "情绪补偿",
-      "brand_count": 21,
+      "brand_count": 15,
       "percentage": "7.5%",
       "top_representatives": [
         {
           "brand": "野兽派 (BULLKELION / 旗下香氛)",
           "product": "桂花乌龙/橘子海香薰",
-          "value": 98.0,
+          "value": 98,
           "metric": "GMV(亿)",
           "data_source": "情绪补偿"
         },
         {
           "brand": "蕉内 (Bananain)",
           "product": "凉皮防晒服/无感内裤",
-          "value": 50.0,
+          "value": 50,
           "metric": "GMV(亿)",
           "data_source": "智性决策"
         },
@@ -212,7 +212,7 @@
     {
       "key": "多巴胺与悦己主义",
       "section": "情绪补偿",
-      "brand_count": 21,
+      "brand_count": 20,
       "percentage": "7.5%",
       "top_representatives": [
         {
@@ -232,7 +232,7 @@
         {
           "brand": "瑞幸咖啡 (Starbucks)",
           "product": "生椰拿铁/酱香拿铁",
-          "value": 249.0,
+          "value": 249,
           "metric": "GMV(亿)",
           "data_source": "情绪补偿"
         }
@@ -241,13 +241,13 @@
     {
       "key": "科技平权",
       "section": "智性决策",
-      "brand_count": 20,
+      "brand_count": 39,
       "percentage": "7.2%",
       "top_representatives": [
         {
           "brand": "追觅 (Dreame)",
           "product": "追觅X30扫地机器人",
-          "value": 110.0,
+          "value": 110,
           "metric": "GMV(亿)",
           "data_source": "智性决策"
         },
@@ -270,7 +270,7 @@
     {
       "key": "信息平权",
       "section": "智性决策",
-      "brand_count": 20,
+      "brand_count": 19,
       "percentage": "7.2%",
       "top_representatives": [
         {
@@ -283,7 +283,7 @@
         {
           "brand": "喜马拉雅 (Ximalaya)",
           "product": "喜马拉雅VIP",
-          "value": 95.0,
+          "value": 95,
           "metric": "GMV(亿)",
           "data_source": "智性决策"
         },
@@ -299,7 +299,7 @@
     {
       "key": "秩序与掌控感",
       "section": "智性决策",
-      "brand_count": 20,
+      "brand_count": 19,
       "percentage": "7.2%",
       "top_representatives": [
         {
@@ -319,7 +319,7 @@
         {
           "brand": "安克 (Anker)",
           "product": "Anker Prime 充电基站",
-          "value": 175.0,
+          "value": 175,
           "metric": "GMV(亿)",
           "data_source": "智性决策"
         }

@@ -1,0 +1,51 @@
+# 2026 青年消费洞察看板：AI 独立分析版面协议 (V3.7)
+
+## 1. 界面空间架构 (Spatial Architecture)
+
+### A. 容器视觉规范
+* **布局**: 独立右侧栏或悬浮抽屉，顶部固定展示 AI 助手状态（PNG/GIF 切换区）。
+* **自动聚焦**: 消息流输出时，容器始终保持 `smooth-scroll-to-bottom`，但若用户手动向上滚动，则暂停自动跟随。
+
+---
+
+## 2. 交互细节与动效规范 (Interaction Specs)
+
+### 2.1 物理消息入场 (Message Motion)
+* **动效**: 新消息弹出不是简单的 `Appear`，而是带有轻微的 `Y-axis` 偏移和弹性缩放。
+* **参数**: 
+  - `Initial`: { opacity: 0, y: 20, scale: 0.95 }
+  - `Animate`: { opacity: 1, y: 0, scale: 1 }
+  - `Transition`: { type: "spring", stiffness: 260, damping: 20 }
+
+### 2.2 品牌实体智能识别 (Smart Entity Recognition)
+* **核心逻辑**: 在 AI 文本流式输出（Streaming）过程中，实时通过正则匹配本地数据库中的 `brand_name`。
+* **视觉呈现**: 
+    - 匹配到的品牌名自动包裹在一个 `Inline-Badge` 中。
+    - **颜色联动**: 颜色自动绑定该品牌的 `section`（如：智性决策->科技蓝，情绪补偿->治愈橙）。
+    - **交互**: 点击 Badge 直接呼起主界面的 `Brand Modal`，实现“对话即入口”。
+
+### 2.3 状态指示系统 (Status Sync)
+* **静态态 (Idle)**: 展示 `assistant_idle.png`，对话框边框为灰度。
+* **生成态 (Processing)**: 
+    - 切换为 `assistant_thinking.gif`。
+    - 对话框底部显示“正在深度检索品牌库...”等动态提示。
+    - 文字采用流式渲染，模拟人类思考节奏。
+
+---
+
+## 3. 前端实现逻辑 (Implementation logic)
+
+### 3.1 实体映射器 (Entity Mapper)
+```javascript
+// 示例：将 AI 回复文本中的品牌名动态转为交互组件
+const formatMessage = (text, brands) => {
+  const brandNames = brands.map(b => b.brand_name).join('|');
+  const regex = new RegExp(`(${brandNames})`, 'g');
+  
+  return text.split(regex).map(part => {
+    if (brandNames.includes(part)) {
+      return <BrandBadge name={part} />; // 返回带板块颜色的可点击标签
+    }
+    return part;
+  });
+};
