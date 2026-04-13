@@ -97,6 +97,7 @@ export const EntityMatrix = () => {
   const [selectedBrand, setSelectedBrand] = useState<Brand | null>(null);
   const [visibleCount, setVisibleCount] = useState(20);
   const loaderRef = useRef<HTMLDivElement>(null);
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
 
   const definedMotivations: Record<string, string[]> = {
     '智性决策': ['科技平权', '信息平权', '秩序与掌控感', '生产力与效率', '舒适感'],
@@ -151,6 +152,9 @@ export const EntityMatrix = () => {
   // 重置 visibleCount 当过滤条件或排序改变时
   useEffect(() => {
     setVisibleCount(20);
+    if (scrollContainerRef.current) {
+      scrollContainerRef.current.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   }, [filteredBrands]);
 
   const visibleBrands = filteredBrands.slice(0, visibleCount);
@@ -247,7 +251,7 @@ export const EntityMatrix = () => {
       </div>
 
       {/* 无限滚动卡片墙 */}
-      <div className="flex-1 overflow-y-auto p-6 md:p-8 no-scrollbar">
+      <div ref={scrollContainerRef} className="flex-1 overflow-y-auto p-6 md:p-8 no-scrollbar">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           <AnimatePresence mode="popLayout">
             {visibleBrands.map((brand, index) => {

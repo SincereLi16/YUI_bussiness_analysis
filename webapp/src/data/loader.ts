@@ -1,6 +1,7 @@
 import { Brand, AnalysisSummary } from '../types';
 import analysisData from './analysis_summary.json';
 import mergedData from './merged_consumer_data_rag.json';
+import explanationsData from './brand_explanations.json';
 
 // Extract number from strings like "21.5 亿元"
 const extractGmv = (gmvStr: string): number => {
@@ -39,22 +40,47 @@ export const getBrands = (): Brand[] => {
     
     if (category.brands && Array.isArray(category.brands)) {
       category.brands.forEach((b: any, index: number) => {
-        // Extract from new schema fields
-        const totalGmv = b.brand_gmv ? extractGmv(b.brand_gmv) : 0;
+        const id = `${motivation}-${b.brand_name}-${index}`;
+        // Use pre-generated explanation if available, otherwise fallback to prescription
+        let explanation = (explanationsData as Record<string, string>)[id];
+        // 去掉所有中文双引号和英文双引号
+        if (explanation) {
+          explanation = explanation.replace(/["“”]/g, '');
+        }
+        const displayPrescription = explanation || prescription;
+
+        // Extract total GMV from the new string field or fallback
+        const totalGmv = extractGmv(b.brand_gmv) || b.products?.reduce((sum: number, p: any) => sum + (p.gmv || 0), 0) || 0;
         const brandGrowth = b.brand_cagr ? extractCagr(b.brand_cagr) : 0;
         
         // Find core product name (first product or fallback)
-        const coreProduct = b.products && b.products.length > 0 
-          ? b.products[0].product_name 
-          : 'N/A';
+        const coreProduct = b.products?.[0]?.product_name || '综合产品';
 
         // Extract ZH and EN names directly from JSON fields (populated by data cleaning script)
         let brandNameZh = b.brand_name_zh || b.brand_name;
         let brandNameEn = b.brand_name_en || '';
+        let originalBrandName = b.brand_name;
+
+        // Apply renaming rule
+        const renameMap: Record<string, string> = {
+          "少年工程": "TE",
+          "M": "M Stand",
+          "Manner Coffee": "manner",
+          "manner coffee": "manner",
+          "HOKA ONE ONE": "Hoka",
+          "Hoka one one": "Hoka",
+          "Meizu PANDAER": "潘达尔",
+          "魅族Pandaer": "潘达尔",
+          "透明音箱": "Transparent"
+        };
+
+        if (renameMap[brandNameZh]) brandNameZh = renameMap[brandNameZh];
+        if (renameMap[brandNameEn]) brandNameEn = renameMap[brandNameEn];
+        if (renameMap[originalBrandName]) originalBrandName = renameMap[originalBrandName];
 
         brands.push({
-          id: `${motivation}-${b.brand_name}-${index}`,
-          brand_name: b.brand_name,
+          id: id,
+          brand_name: originalBrandName,
           brand_name_zh: brandNameZh,
           brand_name_en: brandNameEn,
           core_product: coreProduct,
@@ -62,7 +88,7 @@ export const getBrands = (): Brand[] => {
           premium_rate: extractPremiumRate(b.premium_rate),
           section: section,
           motivation: motivation,
-          prescription: prescription,
+          prescription: displayPrescription,
           topics: b.topics || [],
           cross_motivations: b.cross_motivations || [],
           cagr_val: cagrVal,
@@ -83,16 +109,8 @@ export const getBrands = (): Brand[] => {
   
   // --- Role Calculation (V4.0 Simplified Logic) ---
   if (brands.length > 0) {
-    // Extract valid GMVs (greater than 0, ignoring nulls)
-    const validGmvs = brands.map(b => b.gmv_val).filter(g => g > 0).sort((a, b) => b - a);
-    
-    // Top 20% GMV Threshold
-    const top20Index = Math.max(0, Math.floor(validGmvs.length * 0.2) - 1);
-    const top20GmvThreshold = validGmvs.length > 0 ? validGmvs[top20Index] : Infinity;
-
     brands.forEach(b => {
       const gmv = b.gmv_val;
-      const growth = b.brand_growth; // Note: Ensure brand_growth is parsed correctly below
       const premium = b.premium_rate;
 
       // Ensure b.brand_growth is correctly extracted from brand_cagr
@@ -100,7 +118,7 @@ export const getBrands = (): Brand[] => {
       b.brand_growth = cagrExtracted;
       const actualGrowth = cagrExtracted;
 
-      if (gmv >= top20GmvThreshold && gmv > 0) {
+      if (gmv > 20) {
         b.role = '巨头';
       } else if (actualGrowth >= 20) {
         b.role = '黑马';

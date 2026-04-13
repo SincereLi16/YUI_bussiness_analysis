@@ -23,7 +23,8 @@ export const BrandModal: React.FC<BrandModalProps> = ({ brand, onClose }) => {
     };
   }, []);
   const gmv = useCounter(brand?.gmv_val || 0, 1500);
-  const { displayedText } = useTypewriter(brand?.prescription || '暂无品牌处方信息', 80);
+  // 减小打字延迟，让速度快起来，比如从 80 降到 30
+  const { displayedText } = useTypewriter(brand?.prescription || '暂无信息', 20);
 
   if (!brand) return null;
 
@@ -78,12 +79,12 @@ export const BrandModal: React.FC<BrandModalProps> = ({ brand, onClose }) => {
       },
       radar: {
         indicator: [
-          { name: '赛道增速(CAGR)', max: 50 },
-          { name: 'GMV', max: Math.max(1000, brand.gmv_val || 100) },
-          { name: '溢价指数', max: 100 },
-          { name: '赛道热度', max: 5 },
-          { name: '声量动能', max: 100 },
-          { name: '智性/情绪', max: 100 }
+          { name: '赛道增速(CAGR)', max: 50, min: 0 },
+          { name: 'GMV', max: Math.max(1000, brand.gmv_val || 100), min: 0 },
+          { name: '溢价指数', max: 100, min: 0 },
+          { name: '赛道热度', max: 5, min: 0 },
+          { name: '声量动能', max: 100, min: 0 },
+          { name: '智性/情绪', max: 100, min: 0 },
         ],
         shape: 'polygon',
         splitNumber: 4,
@@ -242,7 +243,7 @@ export const BrandModal: React.FC<BrandModalProps> = ({ brand, onClose }) => {
             <div className="flex flex-col gap-10">
               {/* 2. 打字机处方 */}
               <div>
-                <h3 className="text-[25px] leading-[1.20] font-serif font-medium text-near-black mb-4">诊断与处方</h3>
+                <h3 className="text-[25px] leading-[1.20] font-serif font-medium text-near-black mb-4">年轻人消费释义</h3>
                 <div className="p-6 bg-parchment rounded-[12px] border border-border-cream min-h-[160px]">
                   <p className="font-serif leading-[1.60] text-[17px] text-near-black">
                     {displayedText}

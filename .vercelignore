@@ -1,0 +1,11 @@
+node_modules
+webapp/node_modules
+build
+dist
+.next
+webapp/.next
+.git
+.trae
+.vercel
+.log
+.figma

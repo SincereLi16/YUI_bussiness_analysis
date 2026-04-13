@@ -2,11 +2,15 @@ import { getSystemPrompt } from './systemPrompt';
 
 export async function POST(req: Request) {
   try {
-    const { messages } = await req.json();
+    const { messages, mode } = await req.json();
+    const selectedMode = mode === 'audit' ? 'audit' : 'casual';
+
+    // Get the latest user message to feed into the RAG filter
+    const lastUserMessage = messages.filter((m: any) => m.role === 'user').pop()?.content || '';
 
     const systemPrompt = {
       role: 'system',
-      content: getSystemPrompt(),
+      content: getSystemPrompt(selectedMode, lastUserMessage),
     };
 
     const apiMessages = [systemPrompt, ...messages];
