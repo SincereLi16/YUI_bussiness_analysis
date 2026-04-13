@@ -24,3 +24,15 @@ yarn-error.log*
 # Editor
 .vscode/
 .idea/
+
+# Trae
+.trae/
+
+# Vercel
+.vercel/
+
+# Local notes
+review_*.txt
+
+# Local scripts
+refactor_brands.js
